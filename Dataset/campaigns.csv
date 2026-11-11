@@ -1,0 +1,801 @@
+Campaign_ID,Campaign_Name,Channel,Campaign_Type,Target_Audience,Region,Start_Date,End_Date,Total_Budget,Product_Category,Client_Name,Campaign_Status
+CMP_0001,Home & Living_Conversion_Campaign_0001,SEO,Brand Awareness,55+,North,2022-11-24,2023-09-30,331932,Home & Living,Client_032,Active
+CMP_0002,Education_Lead Generation_Campaign_0002,Email Marketing,Conversion,35-44,North,2022-02-27,2022-12-16,171958,Food & Beverages,Client_042,Completed
+CMP_0003,Travel_Retargeting_Campaign_0003,YouTube Ads,Engagement,45-54,South,2022-01-13,2023-01-10,171958,Fashion,Client_018,Active
+CMP_0004,Education_Conversion_Campaign_0004,Affiliate,Brand Awareness,18-24,Central,2022-05-21,2023-04-03,171958,Electronics,Client_015,Active
+CMP_0005,Travel_Brand Awareness_Campaign_0005,Affiliate,Conversion,55+,North,2022-05-06,2023-05-22,2492743,Travel,Client_040,Completed
+CMP_0006,Health & Fitness_Conversion_Campaign_0006,Email Marketing,Lead Generation,55+,Central,2022-04-25,2022-12-20,331932,Travel,Client_032,Completed
+CMP_0007,Health & Fitness_Retargeting_Campaign_0007,Google Ads,Conversion,18-24,West,2022-03-13,2023-01-18,331932,Travel,Client_009,Completed
+CMP_0008,Health & Fitness_Lead Generation_Campaign_0008,Affiliate,Engagement,55+,Central,2022-02-22,2022-10-25,171958,Electronics,Client_037,Completed
+CMP_0009,Education_Brand Awareness_Campaign_0009,Influencer,Conversion,18-24,East,2022-12-13,2024-01-04,2492743,Education,Client_010,Completed
+CMP_0010,Fashion_Brand Awareness_Campaign_0010,Google Ads,Retargeting,45-54,East,2022-10-07,2023-09-05,331932,Travel,Client_020,Active
+CMP_0011,Fashion_Conversion_Campaign_0011,Affiliate,Engagement,35-44,Central,2022-02-14,2023-02-15,171958,Travel,Client_006,Paused
+CMP_0012,Fashion_Retargeting_Campaign_0012,Influencer,Lead Generation,18-24,East,2022-10-30,2023-07-26,171958,Food & Beverages,Client_048,Active
+CMP_0013,Beauty & Skincare_Engagement_Campaign_0013,Email Marketing,Retargeting,25-34,West,2022-08-05,2023-07-28,171958,Health & Fitness,Client_003,Paused
+CMP_0014,Electronics_Engagement_Campaign_0014,SEO,Conversion,18-24,South,2022-01-17,2022-12-20,171958,Health & Fitness,Client_042,Completed
+CMP_0015,Health & Fitness_Brand Awareness_Campaign_0015,TV Channels,Engagement,55+,East,2022-01-16,2023-02-18,331932,Home & Living,Client_011,Paused
+CMP_0016,Travel_Retargeting_Campaign_0016,Google Ads,Lead Generation,45-54,East,2022-02-17,2023-01-06,171958,Home & Living,Client_043,Active
+CMP_0017,Travel_Brand Awareness_Campaign_0017,TV Channels,Retargeting,45-54,Central,2022-04-22,2023-03-07,171958,Travel,Client_017,Completed
+CMP_0018,Food & Beverages_Engagement_Campaign_0018,Influencer,Lead Generation,18-24,West,2022-04-30,2023-03-07,331932,Food & Beverages,Client_032,Active
+CMP_0019,Food & Beverages_Retargeting_Campaign_0019,Google Ads,Conversion,35-44,South,2022-09-16,2023-10-08,171958,Travel,Client_004,Active
+CMP_0020,Fashion_Engagement_Campaign_0020,TV Channels,Lead Generation,25-34,Central,2022-11-05,2023-10-22,171958,Home & Living,Client_004,Completed
+CMP_0021,Home & Living_Lead Generation_Campaign_0021,TV Channels,Brand Awareness,45-54,Central,2022-01-14,2022-10-09,171958,Electronics,Client_017,Active
+CMP_0022,Education_Lead Generation_Campaign_0022,Email Marketing,Retargeting,55+,West,2022-10-15,2023-07-24,171958,Electronics,Client_041,Completed
+CMP_0023,Fashion_Retargeting_Campaign_0023,Affiliate,Lead Generation,55+,South,2022-04-12,2022-12-30,331932,Education,Client_019,Active
+CMP_0024,Health & Fitness_Brand Awareness_Campaign_0024,TV Channels,Conversion,35-44,West,2022-11-29,2023-07-09,171958,Fashion,Client_005,Completed
+CMP_0025,Food & Beverages_Engagement_Campaign_0025,TV Channels,Conversion,45-54,South,2022-12-26,2023-09-23,331932,Health & Fitness,Client_032,Completed
+CMP_0026,Home & Living_Conversion_Campaign_0026,YouTube Ads,Lead Generation,18-24,West,2022-10-07,2023-08-18,331932,Food & Beverages,Client_022,Completed
+CMP_0027,Electronics_Engagement_Campaign_0027,Email Marketing,Conversion,55+,Central,2022-08-03,2023-04-22,171958,Beauty & Skincare,Client_006,Completed
+CMP_0028,Food & Beverages_Brand Awareness_Campaign_0028,TV Channels,Engagement,35-44,Central,2022-04-23,2023-05-20,331932,Health & Fitness,Client_035,Completed
+CMP_0029,Beauty & Skincare_Retargeting_Campaign_0029,Email Marketing,Engagement,45-54,North,2022-08-18,2023-07-02,171958,Beauty & Skincare,Client_022,Completed
+CMP_0030,Food & Beverages_Retargeting_Campaign_0030,Google Ads,Engagement,45-54,East,2022-10-29,2023-10-09,171958,Fashion,Client_001,Completed
+CMP_0031,Health & Fitness_Brand Awareness_Campaign_0031,Google Ads,Brand Awareness,45-54,West,2022-05-23,2023-05-14,2492743,Fashion,Client_020,Completed
+CMP_0032,Beauty & Skincare_Lead Generation_Campaign_0032,Email Marketing,Lead Generation,45-54,North,2022-01-04,2023-01-10,2492743,Travel,Client_022,Paused
+CMP_0033,Travel_Brand Awareness_Campaign_0033,TV Channels,Brand Awareness,45-54,East,2022-03-23,2023-01-14,331932,Home & Living,Client_048,Completed
+CMP_0034,Beauty & Skincare_Brand Awareness_Campaign_0034,Affiliate,Conversion,55+,West,2022-12-24,2023-10-06,171958,Fashion,Client_011,Completed
+CMP_0035,Fashion_Engagement_Campaign_0035,TV Channels,Brand Awareness,35-44,South,2022-08-05,2023-02-28,171958,Fashion,Client_013,Completed
+CMP_0036,Home & Living_Conversion_Campaign_0036,SEO,Conversion,45-54,East,2022-06-24,2023-05-16,331932,Beauty & Skincare,Client_042,Completed
+CMP_0037,Travel_Conversion_Campaign_0037,SEO,Conversion,25-34,Central,2022-05-23,2023-03-02,171958,Home & Living,Client_003,Completed
+CMP_0038,Health & Fitness_Lead Generation_Campaign_0038,Google Ads,Retargeting,25-34,North,2022-03-21,2022-11-22,171958,Fashion,Client_009,Active
+CMP_0039,Health & Fitness_Retargeting_Campaign_0039,SEO,Engagement,35-44,East,2022-04-21,2023-03-11,171958,Health & Fitness,Client_012,Active
+CMP_0040,Health & Fitness_Engagement_Campaign_0040,Google Ads,Conversion,18-24,East,2022-06-22,2023-03-03,171958,Education,Client_023,Completed
+CMP_0041,Fashion_Brand Awareness_Campaign_0041,Affiliate,Retargeting,18-24,Central,2022-02-22,2022-12-09,2492743,Fashion,Client_014,Active
+CMP_0042,Beauty & Skincare_Lead Generation_Campaign_0042,Google Ads,Engagement,18-24,West,2022-02-17,2022-11-10,171958,Education,Client_033,Completed
+CMP_0043,Electronics_Brand Awareness_Campaign_0043,TV Channels,Conversion,25-34,South,2022-07-14,2023-04-27,331932,Home & Living,Client_018,Completed
+CMP_0044,Food & Beverages_Conversion_Campaign_0044,Google Ads,Conversion,18-24,Central,2022-02-19,2022-11-17,171958,Travel,Client_049,Completed
+CMP_0045,Travel_Conversion_Campaign_0045,Affiliate,Brand Awareness,55+,South,2022-07-03,2023-06-20,331932,Food & Beverages,Client_041,Active
+CMP_0046,Education_Conversion_Campaign_0046,Email Marketing,Brand Awareness,45-54,West,2022-06-26,2023-07-10,331932,Home & Living,Client_009,Active
+CMP_0047,Food & Beverages_Lead Generation_Campaign_0047,SEO,Engagement,25-34,East,2022-11-06,2023-08-03,171958,Beauty & Skincare,Client_023,Paused
+CMP_0048,Fashion_Retargeting_Campaign_0048,Google Ads,Conversion,35-44,South,2022-05-16,2023-04-23,2492743,Food & Beverages,Client_010,Completed
+CMP_0049,Travel_Brand Awareness_Campaign_0049,YouTube Ads,Lead Generation,35-44,North,2022-01-23,2022-08-13,331932,Health & Fitness,Client_019,Completed
+CMP_0050,Food & Beverages_Engagement_Campaign_0050,Google Ads,Brand Awareness,45-54,North,2022-08-24,2023-07-22,2492743,Electronics,Client_047,Completed
+CMP_0051,Education_Engagement_Campaign_0051,Influencer,Engagement,25-34,Central,2022-10-02,2023-06-07,2492743,Education,Client_005,Completed
+CMP_0052,Food & Beverages_Brand Awareness_Campaign_0052,Google Ads,Conversion,18-24,West,2022-03-05,2022-10-12,331932,Education,Client_047,Completed
+CMP_0053,Home & Living_Conversion_Campaign_0053,Google Ads,Conversion,18-24,Central,2022-07-13,2023-03-31,2492743,Education,Client_023,Completed
+CMP_0054,Electronics_Brand Awareness_Campaign_0054,Google Ads,Lead Generation,55+,Central,2022-02-10,2023-03-01,171958,Home & Living,Client_030,Active
+CMP_0055,Home & Living_Retargeting_Campaign_0055,Email Marketing,Engagement,55+,Central,2022-10-10,2023-08-10,171958,Education,Client_025,Completed
+CMP_0056,Home & Living_Lead Generation_Campaign_0056,Email Marketing,Conversion,18-24,North,2022-05-31,2023-04-21,171958,Travel,Client_028,Completed
+CMP_0057,Food & Beverages_Retargeting_Campaign_0057,Google Ads,Brand Awareness,35-44,North,2022-11-18,2023-10-26,171958,Education,Client_034,Paused
+CMP_0058,Health & Fitness_Brand Awareness_Campaign_0058,YouTube Ads,Lead Generation,35-44,Central,2022-11-13,2023-12-12,171958,Beauty & Skincare,Client_045,Active
+CMP_0059,Electronics_Conversion_Campaign_0059,Email Marketing,Engagement,55+,North,2022-07-05,2023-03-23,171958,Health & Fitness,Client_048,Completed
+CMP_0060,Travel_Lead Generation_Campaign_0060,Email Marketing,Lead Generation,45-54,West,2022-10-23,2023-11-03,331932,Education,Client_047,Completed
+CMP_0061,Beauty & Skincare_Conversion_Campaign_0061,Email Marketing,Brand Awareness,18-24,Central,2022-04-09,2023-02-24,171958,Education,Client_025,Completed
+CMP_0062,Home & Living_Engagement_Campaign_0062,TV Channels,Engagement,55+,North,2022-12-27,2023-12-27,171958,Food & Beverages,Client_010,Active
+CMP_0063,Health & Fitness_Brand Awareness_Campaign_0063,Email Marketing,Lead Generation,55+,South,2022-02-05,2023-02-22,331932,Health & Fitness,Client_014,Completed
+CMP_0064,Travel_Brand Awareness_Campaign_0064,Google Ads,Retargeting,18-24,Central,2022-01-24,2022-12-15,171958,Education,Client_042,Completed
+CMP_0065,Travel_Brand Awareness_Campaign_0065,Google Ads,Brand Awareness,18-24,Central,2022-12-05,2023-10-15,331932,Home & Living,Client_046,Completed
+CMP_0066,Education_Brand Awareness_Campaign_0066,Influencer,Brand Awareness,35-44,West,2022-04-27,2022-11-17,171958,Fashion,Client_030,Completed
+CMP_0067,Health & Fitness_Engagement_Campaign_0067,Affiliate,Brand Awareness,45-54,East,2022-05-29,2023-01-07,2492743,Travel,Client_041,Completed
+CMP_0068,Travel_Engagement_Campaign_0068,TV Channels,Retargeting,45-54,East,2022-02-10,2022-11-12,331932,Home & Living,Client_025,Completed
+CMP_0069,Travel_Conversion_Campaign_0069,TV Channels,Retargeting,18-24,West,2022-04-30,2023-01-11,171958,Electronics,Client_014,Paused
+CMP_0070,Food & Beverages_Brand Awareness_Campaign_0070,SEO,Conversion,25-34,West,2022-02-21,2022-12-21,171958,Home & Living,Client_035,Completed
+CMP_0071,Travel_Brand Awareness_Campaign_0071,TV Channels,Lead Generation,55+,West,2022-07-14,2023-07-26,331932,Food & Beverages,Client_048,Active
+CMP_0072,Health & Fitness_Lead Generation_Campaign_0072,Google Ads,Conversion,55+,East,2022-05-23,2023-02-09,331932,Food & Beverages,Client_034,Completed
+CMP_0073,Education_Retargeting_Campaign_0073,Google Ads,Lead Generation,18-24,West,2022-08-21,2023-05-26,331932,Education,Client_010,Active
+CMP_0074,Fashion_Conversion_Campaign_0074,YouTube Ads,Retargeting,25-34,North,2022-11-22,2023-11-26,331932,Home & Living,Client_035,Completed
+CMP_0075,Fashion_Lead Generation_Campaign_0075,SEO,Retargeting,35-44,Central,2022-07-06,2023-06-19,171958,Food & Beverages,Client_011,Active
+CMP_0076,Travel_Engagement_Campaign_0076,Google Ads,Conversion,18-24,Central,2022-03-25,2023-01-13,171958,Fashion,Client_011,Active
+CMP_0077,Travel_Engagement_Campaign_0077,TV Channels,Engagement,18-24,South,2022-07-09,2023-05-26,171958,Health & Fitness,Client_021,Completed
+CMP_0078,Fashion_Conversion_Campaign_0078,TV Channels,Conversion,55+,South,2022-07-01,2023-06-07,2492743,Home & Living,Client_021,Active
+CMP_0079,Food & Beverages_Retargeting_Campaign_0079,YouTube Ads,Lead Generation,18-24,Central,2022-04-18,2023-03-19,331932,Travel,Client_022,Completed
+CMP_0080,Home & Living_Retargeting_Campaign_0080,Google Ads,Conversion,18-24,North,2022-12-10,2023-09-24,171958,Fashion,Client_045,Active
+CMP_0081,Beauty & Skincare_Brand Awareness_Campaign_0081,Google Ads,Brand Awareness,18-24,East,2022-05-17,2023-03-21,171958,Education,Client_007,Completed
+CMP_0082,Fashion_Engagement_Campaign_0082,YouTube Ads,Lead Generation,55+,East,2022-12-26,2024-01-20,171958,Health & Fitness,Client_017,Completed
+CMP_0083,Home & Living_Retargeting_Campaign_0083,Google Ads,Lead Generation,35-44,North,2022-12-16,2023-11-21,171958,Travel,Client_002,Completed
+CMP_0084,Health & Fitness_Lead Generation_Campaign_0084,SEO,Engagement,35-44,East,2022-11-28,2023-09-08,331932,Education,Client_012,Completed
+CMP_0085,Home & Living_Brand Awareness_Campaign_0085,TV Channels,Retargeting,18-24,West,2022-02-06,2022-11-23,331932,Travel,Client_042,Active
+CMP_0086,Beauty & Skincare_Retargeting_Campaign_0086,Google Ads,Lead Generation,55+,Central,2022-11-08,2023-11-22,2492743,Education,Client_018,Completed
+CMP_0087,Home & Living_Lead Generation_Campaign_0087,TV Channels,Retargeting,35-44,Central,2022-11-22,2023-10-04,171958,Travel,Client_011,Active
+CMP_0088,Beauty & Skincare_Brand Awareness_Campaign_0088,YouTube Ads,Conversion,35-44,North,2022-03-29,2022-12-23,171958,Health & Fitness,Client_016,Completed
+CMP_0089,Beauty & Skincare_Conversion_Campaign_0089,Influencer,Brand Awareness,35-44,East,2022-10-01,2023-07-06,331932,Fashion,Client_049,Completed
+CMP_0090,Education_Engagement_Campaign_0090,Influencer,Engagement,55+,South,2022-05-06,2023-01-25,331932,Travel,Client_018,Paused
+CMP_0091,Education_Engagement_Campaign_0091,TV Channels,Retargeting,55+,South,2022-03-25,2022-12-09,331932,Travel,Client_035,Active
+CMP_0092,Health & Fitness_Retargeting_Campaign_0092,SEO,Lead Generation,18-24,East,2022-08-25,2023-04-12,331932,Beauty & Skincare,Client_026,Completed
+CMP_0093,Beauty & Skincare_Conversion_Campaign_0093,Google Ads,Retargeting,45-54,South,2022-07-14,2023-08-02,171958,Home & Living,Client_016,Active
+CMP_0094,Fashion_Conversion_Campaign_0094,TV Channels,Lead Generation,35-44,North,2022-05-19,2023-01-23,331932,Health & Fitness,Client_006,Completed
+CMP_0095,Education_Retargeting_Campaign_0095,Influencer,Retargeting,45-54,North,2022-11-24,2023-08-31,171958,Education,Client_044,Completed
+CMP_0096,Food & Beverages_Engagement_Campaign_0096,Google Ads,Lead Generation,55+,East,2022-12-19,2023-08-06,171958,Health & Fitness,Client_043,Paused
+CMP_0097,Electronics_Retargeting_Campaign_0097,Google Ads,Conversion,55+,South,2022-10-13,2023-11-07,171958,Food & Beverages,Client_047,Active
+CMP_0098,Fashion_Retargeting_Campaign_0098,Google Ads,Lead Generation,55+,North,2022-04-23,2023-03-26,171958,Education,Client_047,Active
+CMP_0099,Education_Conversion_Campaign_0099,Google Ads,Lead Generation,45-54,North,2022-12-17,2024-01-16,331932,Health & Fitness,Client_048,Completed
+CMP_0100,Electronics_Brand Awareness_Campaign_0100,Google Ads,Brand Awareness,55+,West,2022-06-16,2023-06-27,171958,Fashion,Client_042,Active
+CMP_0101,Health & Fitness_Retargeting_Campaign_0101,SEO,Lead Generation,18-24,West,2022-01-29,2022-10-03,331932,Education,Client_012,Active
+CMP_0102,Fashion_Brand Awareness_Campaign_0102,Email Marketing,Brand Awareness,55+,North,2022-04-28,2023-01-02,2492743,Education,Client_013,Completed
+CMP_0103,Travel_Conversion_Campaign_0103,Influencer,Engagement,25-34,East,2022-01-17,2022-09-29,171958,Health & Fitness,Client_004,Active
+CMP_0104,Electronics_Conversion_Campaign_0104,Influencer,Brand Awareness,45-54,Central,2022-06-11,2023-07-05,171958,Education,Client_039,Active
+CMP_0105,Home & Living_Retargeting_Campaign_0105,TV Channels,Conversion,25-34,Central,2022-07-25,2023-06-13,331932,Beauty & Skincare,Client_002,Completed
+CMP_0106,Education_Engagement_Campaign_0106,TV Channels,Brand Awareness,55+,North,2022-05-18,2023-02-12,171958,Home & Living,Client_026,Completed
+CMP_0107,Beauty & Skincare_Brand Awareness_Campaign_0107,TV Channels,Engagement,18-24,North,2022-02-03,2023-02-23,171958,Education,Client_027,Active
+CMP_0108,Education_Brand Awareness_Campaign_0108,SEO,Conversion,35-44,North,2022-04-19,2023-04-04,171958,Home & Living,Client_027,Active
+CMP_0109,Health & Fitness_Brand Awareness_Campaign_0109,TV Channels,Retargeting,55+,East,2022-10-18,2023-11-16,171958,Health & Fitness,Client_015,Completed
+CMP_0110,Beauty & Skincare_Brand Awareness_Campaign_0110,SEO,Retargeting,18-24,West,2022-06-11,2023-05-11,2492743,Travel,Client_008,Active
+CMP_0111,Home & Living_Conversion_Campaign_0111,TV Channels,Brand Awareness,45-54,North,2022-04-19,2023-04-06,331932,Electronics,Client_007,Completed
+CMP_0112,Education_Engagement_Campaign_0112,Email Marketing,Brand Awareness,25-34,North,2022-12-02,2023-08-31,331932,Electronics,Client_047,Active
+CMP_0113,Beauty & Skincare_Retargeting_Campaign_0113,Email Marketing,Engagement,25-34,South,2022-09-13,2023-04-26,2492743,Travel,Client_046,Completed
+CMP_0114,Health & Fitness_Retargeting_Campaign_0114,TV Channels,Engagement,25-34,East,2022-07-22,2023-03-28,331932,Travel,Client_040,Completed
+CMP_0115,Travel_Conversion_Campaign_0115,Affiliate,Lead Generation,45-54,North,2022-11-26,2023-08-28,171958,Travel,Client_012,Completed
+CMP_0116,Health & Fitness_Engagement_Campaign_0116,YouTube Ads,Engagement,18-24,South,2022-08-23,2023-05-08,2492743,Fashion,Client_013,Completed
+CMP_0117,Electronics_Retargeting_Campaign_0117,Google Ads,Lead Generation,45-54,Central,2022-03-15,2023-01-01,331932,Electronics,Client_043,Completed
+CMP_0118,Fashion_Retargeting_Campaign_0118,Influencer,Conversion,25-34,North,2022-05-16,2023-01-16,331932,Travel,Client_017,Active
+CMP_0119,Fashion_Engagement_Campaign_0119,Email Marketing,Brand Awareness,55+,North,2022-03-13,2022-12-15,2492743,Fashion,Client_017,Active
+CMP_0120,Travel_Retargeting_Campaign_0120,Influencer,Conversion,35-44,South,2022-05-07,2022-11-26,171958,Food & Beverages,Client_036,Completed
+CMP_0121,Food & Beverages_Engagement_Campaign_0121,YouTube Ads,Engagement,45-54,East,2022-10-15,2023-10-31,171958,Education,Client_021,Active
+CMP_0122,Beauty & Skincare_Retargeting_Campaign_0122,Email Marketing,Conversion,45-54,North,2022-10-03,2023-09-04,171958,Fashion,Client_008,Active
+CMP_0123,Fashion_Engagement_Campaign_0123,Google Ads,Conversion,18-24,Central,2022-05-15,2023-01-02,171958,Electronics,Client_005,Completed
+CMP_0124,Beauty & Skincare_Retargeting_Campaign_0124,TV Channels,Conversion,18-24,North,2022-10-27,2023-07-24,331932,Health & Fitness,Client_026,Completed
+CMP_0125,Food & Beverages_Conversion_Campaign_0125,Email Marketing,Engagement,45-54,Central,2022-08-08,2023-03-07,2492743,Food & Beverages,Client_016,Completed
+CMP_0126,Beauty & Skincare_Engagement_Campaign_0126,SEO,Conversion,25-34,West,2022-10-26,2023-05-27,171958,Electronics,Client_036,Completed
+CMP_0127,Fashion_Retargeting_Campaign_0127,TV Channels,Lead Generation,35-44,West,2022-07-24,2023-06-30,331932,Education,Client_028,Completed
+CMP_0128,Travel_Retargeting_Campaign_0128,Google Ads,Engagement,18-24,Central,2022-07-05,2023-04-05,171958,Fashion,Client_029,Active
+CMP_0129,Beauty & Skincare_Engagement_Campaign_0129,Influencer,Conversion,25-34,East,2022-04-23,2023-05-06,171958,Beauty & Skincare,Client_047,Completed
+CMP_0130,Fashion_Conversion_Campaign_0130,Affiliate,Engagement,55+,North,2022-03-12,2022-10-30,171958,Home & Living,Client_012,Active
+CMP_0131,Health & Fitness_Brand Awareness_Campaign_0131,Email Marketing,Retargeting,18-24,North,2022-09-18,2023-09-16,171958,Education,Client_037,Completed
+CMP_0132,Health & Fitness_Retargeting_Campaign_0132,Google Ads,Lead Generation,25-34,West,2022-09-10,2023-10-07,2492743,Electronics,Client_030,Completed
+CMP_0133,Beauty & Skincare_Lead Generation_Campaign_0133,TV Channels,Conversion,25-34,Central,2022-02-16,2023-01-07,171958,Travel,Client_023,Completed
+CMP_0134,Health & Fitness_Conversion_Campaign_0134,Google Ads,Retargeting,35-44,North,2022-01-25,2022-09-08,331932,Fashion,Client_016,Completed
+CMP_0135,Home & Living_Lead Generation_Campaign_0135,Affiliate,Retargeting,35-44,North,2022-02-26,2022-09-17,331932,Travel,Client_014,Active
+CMP_0136,Beauty & Skincare_Lead Generation_Campaign_0136,Google Ads,Engagement,55+,East,2022-03-20,2023-03-01,171958,Travel,Client_010,Completed
+CMP_0137,Fashion_Retargeting_Campaign_0137,SEO,Retargeting,25-34,South,2022-11-18,2023-08-17,2492743,Travel,Client_007,Completed
+CMP_0138,Fashion_Engagement_Campaign_0138,TV Channels,Lead Generation,25-34,West,2022-03-23,2023-02-06,2492743,Travel,Client_045,Completed
+CMP_0139,Electronics_Retargeting_Campaign_0139,Email Marketing,Lead Generation,35-44,West,2022-12-15,2023-11-02,171958,Travel,Client_037,Completed
+CMP_0140,Beauty & Skincare_Engagement_Campaign_0140,SEO,Brand Awareness,18-24,South,2022-08-05,2023-06-13,171958,Food & Beverages,Client_029,Completed
+CMP_0141,Travel_Lead Generation_Campaign_0141,Influencer,Lead Generation,18-24,North,2022-11-02,2023-08-16,171958,Electronics,Client_003,Active
+CMP_0142,Beauty & Skincare_Lead Generation_Campaign_0142,Google Ads,Retargeting,45-54,East,2022-02-02,2022-10-07,171958,Education,Client_015,Active
+CMP_0143,Beauty & Skincare_Conversion_Campaign_0143,Google Ads,Lead Generation,35-44,East,2022-07-17,2023-02-15,171958,Electronics,Client_036,Completed
+CMP_0144,Electronics_Conversion_Campaign_0144,Google Ads,Engagement,45-54,West,2022-07-15,2023-04-05,331932,Education,Client_047,Completed
+CMP_0145,Health & Fitness_Lead Generation_Campaign_0145,Affiliate,Brand Awareness,35-44,East,2022-11-02,2023-09-20,331932,Home & Living,Client_046,Completed
+CMP_0146,Education_Engagement_Campaign_0146,Influencer,Retargeting,55+,South,2022-08-28,2023-04-14,171958,Fashion,Client_019,Completed
+CMP_0147,Food & Beverages_Conversion_Campaign_0147,SEO,Brand Awareness,25-34,North,2022-09-28,2023-05-02,171958,Beauty & Skincare,Client_013,Completed
+CMP_0148,Home & Living_Engagement_Campaign_0148,SEO,Retargeting,55+,South,2022-05-09,2023-03-07,2492743,Food & Beverages,Client_042,Completed
+CMP_0149,Home & Living_Retargeting_Campaign_0149,SEO,Engagement,35-44,Central,2022-10-11,2023-09-01,171958,Fashion,Client_021,Completed
+CMP_0150,Education_Lead Generation_Campaign_0150,Google Ads,Brand Awareness,25-34,West,2022-01-06,2022-08-12,171958,Food & Beverages,Client_037,Active
+CMP_0151,Health & Fitness_Engagement_Campaign_0151,Affiliate,Conversion,18-24,East,2022-12-15,2023-11-27,171958,Education,Client_027,Completed
+CMP_0152,Education_Conversion_Campaign_0152,TV Channels,Retargeting,18-24,Central,2022-02-28,2023-02-24,2492743,Electronics,Client_029,Active
+CMP_0153,Food & Beverages_Conversion_Campaign_0153,TV Channels,Conversion,45-54,East,2022-12-16,2023-12-26,171958,Travel,Client_020,Active
+CMP_0154,Travel_Lead Generation_Campaign_0154,Email Marketing,Brand Awareness,35-44,North,2022-10-02,2023-05-03,331932,Home & Living,Client_025,Completed
+CMP_0155,Home & Living_Engagement_Campaign_0155,Google Ads,Conversion,35-44,North,2022-05-17,2023-01-10,331932,Home & Living,Client_006,Completed
+CMP_0156,Beauty & Skincare_Retargeting_Campaign_0156,Google Ads,Conversion,18-24,North,2022-11-25,2023-07-21,171958,Health & Fitness,Client_036,Active
+CMP_0157,Electronics_Conversion_Campaign_0157,YouTube Ads,Brand Awareness,55+,East,2022-06-24,2023-06-03,331932,Beauty & Skincare,Client_002,Active
+CMP_0158,Health & Fitness_Engagement_Campaign_0158,Google Ads,Engagement,25-34,Central,2022-02-27,2022-12-01,171958,Home & Living,Client_022,Active
+CMP_0159,Fashion_Engagement_Campaign_0159,SEO,Conversion,55+,North,2022-05-31,2023-01-07,331932,Travel,Client_032,Paused
+CMP_0160,Fashion_Retargeting_Campaign_0160,TV Channels,Conversion,55+,Central,2022-08-11,2023-05-01,331932,Electronics,Client_016,Active
+CMP_0161,Fashion_Lead Generation_Campaign_0161,TV Channels,Engagement,18-24,East,2022-03-22,2022-11-07,331932,Beauty & Skincare,Client_018,Active
+CMP_0162,Food & Beverages_Conversion_Campaign_0162,TV Channels,Conversion,18-24,Central,2022-08-21,2023-07-29,171958,Education,Client_005,Completed
+CMP_0163,Beauty & Skincare_Conversion_Campaign_0163,TV Channels,Conversion,18-24,East,2022-01-02,2023-02-01,331932,Fashion,Client_036,Completed
+CMP_0164,Fashion_Lead Generation_Campaign_0164,YouTube Ads,Conversion,45-54,East,2022-05-15,2023-03-17,171958,Education,Client_030,Paused
+CMP_0165,Education_Retargeting_Campaign_0165,TV Channels,Lead Generation,55+,West,2022-09-14,2023-09-04,171958,Travel,Client_045,Active
+CMP_0166,Electronics_Conversion_Campaign_0166,Email Marketing,Engagement,35-44,East,2022-04-02,2023-03-20,171958,Travel,Client_019,Completed
+CMP_0167,Electronics_Conversion_Campaign_0167,Email Marketing,Conversion,25-34,East,2022-09-17,2023-09-10,331932,Home & Living,Client_023,Completed
+CMP_0168,Health & Fitness_Lead Generation_Campaign_0168,SEO,Engagement,45-54,South,2022-02-24,2022-11-08,331932,Beauty & Skincare,Client_034,Paused
+CMP_0169,Travel_Brand Awareness_Campaign_0169,Affiliate,Retargeting,35-44,North,2022-11-17,2023-12-20,171958,Electronics,Client_013,Completed
+CMP_0170,Health & Fitness_Lead Generation_Campaign_0170,YouTube Ads,Retargeting,55+,West,2022-06-02,2023-05-01,331932,Education,Client_043,Completed
+CMP_0171,Electronics_Retargeting_Campaign_0171,Google Ads,Conversion,18-24,West,2022-11-24,2023-09-17,171958,Health & Fitness,Client_029,Active
+CMP_0172,Fashion_Retargeting_Campaign_0172,Google Ads,Engagement,55+,West,2022-09-17,2023-07-29,331932,Education,Client_036,Completed
+CMP_0173,Beauty & Skincare_Lead Generation_Campaign_0173,TV Channels,Engagement,25-34,South,2022-11-08,2023-09-17,171958,Food & Beverages,Client_022,Completed
+CMP_0174,Electronics_Retargeting_Campaign_0174,SEO,Engagement,45-54,East,2022-04-12,2023-01-13,331932,Food & Beverages,Client_047,Completed
+CMP_0175,Education_Lead Generation_Campaign_0175,Google Ads,Lead Generation,45-54,North,2022-03-20,2023-03-05,171958,Electronics,Client_036,Active
+CMP_0176,Education_Conversion_Campaign_0176,Email Marketing,Retargeting,25-34,Central,2022-07-11,2023-05-16,2492743,Electronics,Client_009,Active
+CMP_0177,Electronics_Brand Awareness_Campaign_0177,SEO,Engagement,35-44,East,2022-03-24,2022-12-27,171958,Food & Beverages,Client_039,Completed
+CMP_0178,Electronics_Retargeting_Campaign_0178,TV Channels,Engagement,35-44,South,2022-10-04,2023-09-14,171958,Health & Fitness,Client_019,Active
+CMP_0179,Home & Living_Lead Generation_Campaign_0179,YouTube Ads,Lead Generation,45-54,East,2022-09-29,2023-09-22,171958,Beauty & Skincare,Client_038,Active
+CMP_0180,Travel_Brand Awareness_Campaign_0180,Google Ads,Lead Generation,45-54,East,2022-01-01,2022-08-04,2492743,Food & Beverages,Client_006,Paused
+CMP_0181,Food & Beverages_Lead Generation_Campaign_0181,Google Ads,Engagement,18-24,South,2022-11-03,2023-10-25,2492743,Electronics,Client_047,Completed
+CMP_0182,Food & Beverages_Brand Awareness_Campaign_0182,YouTube Ads,Brand Awareness,35-44,West,2022-06-15,2023-07-09,171958,Home & Living,Client_015,Completed
+CMP_0183,Electronics_Lead Generation_Campaign_0183,Email Marketing,Engagement,25-34,West,2022-09-08,2023-04-21,331932,Fashion,Client_020,Completed
+CMP_0184,Travel_Engagement_Campaign_0184,YouTube Ads,Engagement,35-44,North,2022-01-10,2023-02-09,331932,Health & Fitness,Client_009,Completed
+CMP_0185,Education_Brand Awareness_Campaign_0185,Email Marketing,Lead Generation,18-24,North,2022-02-27,2022-11-07,331932,Travel,Client_032,Active
+CMP_0186,Fashion_Conversion_Campaign_0186,TV Channels,Lead Generation,45-54,West,2022-07-05,2023-06-30,331932,Health & Fitness,Client_004,Active
+CMP_0187,Electronics_Engagement_Campaign_0187,Influencer,Engagement,45-54,Central,2022-06-07,2023-02-16,171958,Home & Living,Client_050,Completed
+CMP_0188,Home & Living_Lead Generation_Campaign_0188,YouTube Ads,Engagement,18-24,East,2022-05-03,2023-01-25,171958,Home & Living,Client_018,Completed
+CMP_0189,Food & Beverages_Conversion_Campaign_0189,YouTube Ads,Engagement,25-34,Central,2022-01-30,2023-02-03,2492743,Travel,Client_005,Completed
+CMP_0190,Electronics_Engagement_Campaign_0190,TV Channels,Lead Generation,45-54,East,2022-05-04,2022-12-10,2492743,Education,Client_020,Active
+CMP_0191,Health & Fitness_Lead Generation_Campaign_0191,SEO,Engagement,55+,West,2022-10-18,2023-06-15,331932,Electronics,Client_023,Completed
+CMP_0192,Travel_Lead Generation_Campaign_0192,TV Channels,Engagement,45-54,North,2022-02-10,2022-10-29,171958,Food & Beverages,Client_011,Paused
+CMP_0193,Fashion_Engagement_Campaign_0193,Google Ads,Conversion,55+,North,2022-02-13,2022-10-15,171958,Education,Client_037,Completed
+CMP_0194,Health & Fitness_Brand Awareness_Campaign_0194,Affiliate,Brand Awareness,18-24,Central,2022-09-06,2023-08-13,331932,Beauty & Skincare,Client_022,Completed
+CMP_0195,Electronics_Conversion_Campaign_0195,Google Ads,Retargeting,18-24,North,2022-02-05,2022-09-12,2492743,Health & Fitness,Client_004,Completed
+CMP_0196,Education_Brand Awareness_Campaign_0196,Affiliate,Brand Awareness,45-54,West,2022-09-30,2023-05-28,2492743,Travel,Client_029,Completed
+CMP_0197,Travel_Retargeting_Campaign_0197,Email Marketing,Conversion,35-44,Central,2022-03-06,2022-09-22,331932,Health & Fitness,Client_044,Completed
+CMP_0198,Food & Beverages_Brand Awareness_Campaign_0198,Google Ads,Retargeting,55+,East,2022-03-07,2023-01-05,331932,Education,Client_034,Active
+CMP_0199,Health & Fitness_Brand Awareness_Campaign_0199,Email Marketing,Engagement,25-34,North,2022-12-04,2023-10-15,171958,Home & Living,Client_013,Completed
+CMP_0200,Health & Fitness_Lead Generation_Campaign_0200,Influencer,Conversion,45-54,South,2022-09-01,2023-09-12,171958,Food & Beverages,Client_042,Completed
+CMP_0201,Fashion_Engagement_Campaign_0201,YouTube Ads,Engagement,25-34,North,2022-10-09,2023-09-26,2492743,Health & Fitness,Client_009,Active
+CMP_0202,Health & Fitness_Lead Generation_Campaign_0202,Influencer,Lead Generation,45-54,East,2022-03-26,2023-02-09,331932,Beauty & Skincare,Client_042,Completed
+CMP_0203,Electronics_Retargeting_Campaign_0203,SEO,Conversion,35-44,Central,2022-05-16,2023-02-14,171958,Home & Living,Client_031,Paused
+CMP_0204,Health & Fitness_Lead Generation_Campaign_0204,YouTube Ads,Lead Generation,35-44,East,2022-09-28,2023-04-24,171958,Beauty & Skincare,Client_007,Active
+CMP_0205,Education_Conversion_Campaign_0205,Influencer,Conversion,35-44,South,2022-11-07,2023-07-24,331932,Food & Beverages,Client_004,Completed
+CMP_0206,Beauty & Skincare_Lead Generation_Campaign_0206,TV Channels,Conversion,35-44,West,2022-08-05,2023-05-05,171958,Health & Fitness,Client_019,Active
+CMP_0207,Fashion_Conversion_Campaign_0207,Email Marketing,Lead Generation,18-24,North,2022-04-19,2023-05-04,171958,Fashion,Client_042,Completed
+CMP_0208,Electronics_Retargeting_Campaign_0208,TV Channels,Retargeting,18-24,Central,2022-10-04,2023-07-03,331932,Education,Client_030,Completed
+CMP_0209,Home & Living_Brand Awareness_Campaign_0209,Affiliate,Brand Awareness,55+,West,2022-12-20,2024-01-03,331932,Health & Fitness,Client_031,Completed
+CMP_0210,Home & Living_Brand Awareness_Campaign_0210,Affiliate,Engagement,25-34,East,2022-04-13,2023-02-23,331932,Education,Client_035,Paused
+CMP_0211,Health & Fitness_Retargeting_Campaign_0211,Google Ads,Conversion,45-54,Central,2023-01-01,2023-08-07,171958,Food & Beverages,Client_021,Completed
+CMP_0212,Travel_Engagement_Campaign_0212,YouTube Ads,Engagement,45-54,West,2022-06-09,2023-06-19,331932,Health & Fitness,Client_031,Completed
+CMP_0213,Education_Retargeting_Campaign_0213,Affiliate,Lead Generation,18-24,Central,2022-07-24,2023-04-09,171958,Education,Client_019,Active
+CMP_0214,Electronics_Lead Generation_Campaign_0214,Google Ads,Engagement,45-54,South,2022-12-10,2023-09-03,171958,Travel,Client_031,Paused
+CMP_0215,Food & Beverages_Retargeting_Campaign_0215,Email Marketing,Lead Generation,18-24,South,2022-11-29,2023-11-24,331932,Education,Client_032,Active
+CMP_0216,Electronics_Retargeting_Campaign_0216,Affiliate,Engagement,55+,North,2022-07-11,2023-06-26,331932,Health & Fitness,Client_002,Completed
+CMP_0217,Food & Beverages_Brand Awareness_Campaign_0217,Google Ads,Brand Awareness,25-34,North,2022-08-13,2023-08-17,331932,Electronics,Client_010,Completed
+CMP_0218,Health & Fitness_Conversion_Campaign_0218,YouTube Ads,Brand Awareness,55+,South,2022-09-22,2023-05-30,331932,Health & Fitness,Client_002,Active
+CMP_0219,Travel_Conversion_Campaign_0219,TV Channels,Brand Awareness,35-44,Central,2022-08-20,2023-06-24,331932,Health & Fitness,Client_002,Completed
+CMP_0220,Travel_Retargeting_Campaign_0220,Affiliate,Brand Awareness,35-44,South,2022-03-03,2022-10-18,171958,Education,Client_024,Active
+CMP_0221,Beauty & Skincare_Conversion_Campaign_0221,Affiliate,Brand Awareness,35-44,North,2022-05-07,2023-04-11,171958,Beauty & Skincare,Client_017,Active
+CMP_0222,Education_Retargeting_Campaign_0222,Affiliate,Brand Awareness,55+,South,2022-04-26,2023-01-08,171958,Fashion,Client_032,Completed
+CMP_0223,Food & Beverages_Brand Awareness_Campaign_0223,Email Marketing,Lead Generation,45-54,South,2022-02-02,2023-02-02,171958,Beauty & Skincare,Client_016,Active
+CMP_0224,Travel_Brand Awareness_Campaign_0224,Influencer,Conversion,25-34,Central,2022-06-23,2023-02-16,2492743,Education,Client_016,Active
+CMP_0225,Travel_Engagement_Campaign_0225,Influencer,Engagement,35-44,West,2022-01-11,2022-10-06,171958,Beauty & Skincare,Client_046,Active
+CMP_0226,Beauty & Skincare_Engagement_Campaign_0226,TV Channels,Brand Awareness,35-44,North,2022-10-29,2023-06-22,2492743,Home & Living,Client_039,Completed
+CMP_0227,Food & Beverages_Retargeting_Campaign_0227,Influencer,Lead Generation,35-44,Central,2022-10-11,2023-05-17,331932,Electronics,Client_031,Active
+CMP_0228,Fashion_Brand Awareness_Campaign_0228,Google Ads,Lead Generation,25-34,South,2022-04-28,2022-11-29,331932,Beauty & Skincare,Client_043,Completed
+CMP_0229,Health & Fitness_Retargeting_Campaign_0229,SEO,Lead Generation,35-44,South,2022-10-29,2023-06-28,331932,Travel,Client_024,Active
+CMP_0230,Food & Beverages_Conversion_Campaign_0230,TV Channels,Conversion,25-34,West,2022-04-23,2023-01-26,331932,Food & Beverages,Client_001,Paused
+CMP_0231,Travel_Lead Generation_Campaign_0231,Google Ads,Engagement,35-44,North,2022-01-04,2022-12-22,171958,Travel,Client_011,Completed
+CMP_0232,Education_Retargeting_Campaign_0232,Google Ads,Conversion,55+,North,2022-02-06,2023-03-04,171958,Food & Beverages,Client_021,Active
+CMP_0233,Education_Brand Awareness_Campaign_0233,YouTube Ads,Retargeting,55+,East,2022-12-29,2023-12-09,331932,Health & Fitness,Client_004,Completed
+CMP_0234,Health & Fitness_Engagement_Campaign_0234,TV Channels,Lead Generation,25-34,North,2022-11-20,2023-08-20,171958,Home & Living,Client_007,Completed
+CMP_0235,Travel_Retargeting_Campaign_0235,YouTube Ads,Retargeting,55+,West,2022-01-31,2022-12-09,171958,Electronics,Client_026,Paused
+CMP_0236,Electronics_Brand Awareness_Campaign_0236,Google Ads,Brand Awareness,25-34,East,2022-04-28,2022-12-15,331932,Travel,Client_047,Completed
+CMP_0237,Travel_Retargeting_Campaign_0237,TV Channels,Brand Awareness,55+,East,2022-02-04,2022-12-20,171958,Electronics,Client_050,Active
+CMP_0238,Beauty & Skincare_Brand Awareness_Campaign_0238,Email Marketing,Conversion,55+,South,2022-01-17,2023-01-28,2492743,Travel,Client_012,Completed
+CMP_0239,Beauty & Skincare_Engagement_Campaign_0239,YouTube Ads,Engagement,25-34,South,2022-06-19,2023-03-23,2492743,Health & Fitness,Client_031,Completed
+CMP_0240,Education_Brand Awareness_Campaign_0240,TV Channels,Retargeting,45-54,North,2022-02-06,2023-02-20,2492743,Food & Beverages,Client_017,Completed
+CMP_0241,Beauty & Skincare_Brand Awareness_Campaign_0241,SEO,Engagement,55+,East,2022-09-21,2023-07-21,171958,Fashion,Client_033,Completed
+CMP_0242,Home & Living_Retargeting_Campaign_0242,Influencer,Conversion,35-44,South,2022-05-02,2023-01-26,171958,Home & Living,Client_011,Completed
+CMP_0243,Health & Fitness_Conversion_Campaign_0243,SEO,Brand Awareness,45-54,West,2022-05-23,2023-04-16,2492743,Travel,Client_028,Paused
+CMP_0244,Electronics_Engagement_Campaign_0244,TV Channels,Engagement,25-34,South,2022-12-09,2023-11-12,171958,Travel,Client_032,Active
+CMP_0245,Beauty & Skincare_Conversion_Campaign_0245,Google Ads,Engagement,45-54,South,2022-09-06,2023-07-29,2492743,Health & Fitness,Client_001,Active
+CMP_0246,Health & Fitness_Retargeting_Campaign_0246,Influencer,Brand Awareness,18-24,East,2022-04-20,2023-02-26,2492743,Home & Living,Client_047,Active
+CMP_0247,Education_Brand Awareness_Campaign_0247,Google Ads,Retargeting,18-24,East,2022-10-04,2023-05-12,2492743,Food & Beverages,Client_028,Completed
+CMP_0248,Beauty & Skincare_Engagement_Campaign_0248,Influencer,Brand Awareness,55+,Central,2022-03-09,2023-02-25,171958,Food & Beverages,Client_042,Completed
+CMP_0249,Health & Fitness_Conversion_Campaign_0249,Email Marketing,Engagement,55+,West,2022-10-20,2023-05-18,171958,Travel,Client_007,Completed
+CMP_0250,Health & Fitness_Retargeting_Campaign_0250,Affiliate,Retargeting,35-44,East,2022-10-23,2023-08-29,2492743,Fashion,Client_002,Completed
+CMP_0251,Home & Living_Brand Awareness_Campaign_0251,YouTube Ads,Retargeting,45-54,North,2022-08-31,2023-09-23,171958,Fashion,Client_042,Completed
+CMP_0252,Electronics_Lead Generation_Campaign_0252,Affiliate,Brand Awareness,18-24,West,2022-05-05,2023-02-11,171958,Electronics,Client_024,Completed
+CMP_0253,Education_Engagement_Campaign_0253,TV Channels,Engagement,55+,West,2022-08-31,2023-08-20,331932,Home & Living,Client_004,Completed
+CMP_0254,Travel_Engagement_Campaign_0254,YouTube Ads,Conversion,45-54,East,2022-07-28,2023-04-18,2492743,Home & Living,Client_044,Completed
+CMP_0255,Fashion_Retargeting_Campaign_0255,TV Channels,Engagement,55+,West,2022-04-08,2022-10-31,331932,Food & Beverages,Client_019,Paused
+CMP_0256,Food & Beverages_Conversion_Campaign_0256,Email Marketing,Lead Generation,55+,East,2022-02-18,2022-09-29,331932,Electronics,Client_026,Paused
+CMP_0257,Home & Living_Engagement_Campaign_0257,SEO,Conversion,18-24,South,2022-02-19,2022-11-04,171958,Health & Fitness,Client_011,Paused
+CMP_0258,Food & Beverages_Conversion_Campaign_0258,Influencer,Retargeting,18-24,Central,2022-12-04,2023-12-11,331932,Home & Living,Client_040,Completed
+CMP_0259,Home & Living_Brand Awareness_Campaign_0259,Affiliate,Conversion,55+,South,2022-08-09,2023-07-22,2492743,Electronics,Client_050,Completed
+CMP_0260,Beauty & Skincare_Brand Awareness_Campaign_0260,YouTube Ads,Retargeting,25-34,East,2022-07-01,2023-06-16,171958,Electronics,Client_043,Completed
+CMP_0261,Education_Lead Generation_Campaign_0261,TV Channels,Retargeting,55+,East,2022-08-05,2023-02-26,331932,Travel,Client_011,Paused
+CMP_0262,Education_Brand Awareness_Campaign_0262,Email Marketing,Conversion,55+,South,2022-07-30,2023-08-29,2492743,Food & Beverages,Client_045,Active
+CMP_0263,Health & Fitness_Retargeting_Campaign_0263,YouTube Ads,Retargeting,35-44,North,2022-08-28,2023-09-04,331932,Electronics,Client_003,Completed
+CMP_0264,Fashion_Engagement_Campaign_0264,TV Channels,Retargeting,35-44,North,2022-01-28,2022-10-23,331932,Education,Client_012,Active
+CMP_0265,Food & Beverages_Retargeting_Campaign_0265,Google Ads,Lead Generation,35-44,North,2022-12-11,2023-11-23,331932,Fashion,Client_003,Completed
+CMP_0266,Beauty & Skincare_Lead Generation_Campaign_0266,TV Channels,Engagement,25-34,East,2022-12-01,2023-06-29,171958,Education,Client_042,Completed
+CMP_0267,Health & Fitness_Engagement_Campaign_0267,TV Channels,Engagement,25-34,West,2022-11-27,2023-12-27,171958,Fashion,Client_027,Completed
+CMP_0268,Home & Living_Brand Awareness_Campaign_0268,TV Channels,Lead Generation,55+,East,2022-02-20,2023-03-20,331932,Beauty & Skincare,Client_049,Active
+CMP_0269,Home & Living_Lead Generation_Campaign_0269,TV Channels,Conversion,35-44,West,2022-02-01,2022-10-03,331932,Food & Beverages,Client_002,Completed
+CMP_0270,Home & Living_Conversion_Campaign_0270,Google Ads,Brand Awareness,25-34,South,2022-07-26,2023-06-11,2492743,Travel,Client_049,Completed
+CMP_0271,Electronics_Retargeting_Campaign_0271,Google Ads,Brand Awareness,18-24,Central,2022-06-23,2023-05-21,2492743,Health & Fitness,Client_016,Active
+CMP_0272,Health & Fitness_Conversion_Campaign_0272,Affiliate,Brand Awareness,55+,West,2022-02-25,2023-02-26,331932,Education,Client_002,Completed
+CMP_0273,Beauty & Skincare_Engagement_Campaign_0273,Email Marketing,Lead Generation,45-54,North,2022-05-08,2023-03-17,331932,Education,Client_030,Completed
+CMP_0274,Fashion_Brand Awareness_Campaign_0274,TV Channels,Lead Generation,55+,East,2022-04-09,2023-01-05,331932,Beauty & Skincare,Client_020,Completed
+CMP_0275,Food & Beverages_Conversion_Campaign_0275,YouTube Ads,Retargeting,45-54,South,2022-04-08,2022-12-10,331932,Fashion,Client_038,Active
+CMP_0276,Education_Engagement_Campaign_0276,Google Ads,Brand Awareness,35-44,North,2022-10-02,2023-09-16,331932,Travel,Client_028,Paused
+CMP_0277,Travel_Conversion_Campaign_0277,Affiliate,Conversion,45-54,South,2022-08-18,2023-06-25,331932,Beauty & Skincare,Client_025,Completed
+CMP_0278,Fashion_Lead Generation_Campaign_0278,YouTube Ads,Conversion,35-44,Central,2022-03-13,2023-03-10,2492743,Food & Beverages,Client_032,Paused
+CMP_0279,Health & Fitness_Brand Awareness_Campaign_0279,Google Ads,Brand Awareness,18-24,East,2022-08-05,2023-06-26,171958,Travel,Client_010,Paused
+CMP_0280,Education_Conversion_Campaign_0280,TV Channels,Brand Awareness,45-54,East,2022-04-04,2022-11-13,171958,Food & Beverages,Client_042,Active
+CMP_0281,Health & Fitness_Lead Generation_Campaign_0281,Influencer,Brand Awareness,55+,Central,2022-05-23,2023-04-08,171958,Electronics,Client_040,Active
+CMP_0282,Beauty & Skincare_Lead Generation_Campaign_0282,Affiliate,Lead Generation,35-44,East,2022-08-25,2023-06-10,331932,Home & Living,Client_033,Active
+CMP_0283,Travel_Engagement_Campaign_0283,Email Marketing,Lead Generation,55+,West,2022-05-08,2023-03-08,171958,Electronics,Client_013,Completed
+CMP_0284,Electronics_Brand Awareness_Campaign_0284,SEO,Lead Generation,25-34,South,2022-02-08,2022-11-20,171958,Food & Beverages,Client_041,Active
+CMP_0285,Beauty & Skincare_Retargeting_Campaign_0285,Google Ads,Engagement,35-44,North,2022-08-15,2023-05-24,331932,Education,Client_042,Active
+CMP_0286,Beauty & Skincare_Lead Generation_Campaign_0286,Affiliate,Conversion,45-54,Central,2022-10-09,2023-10-15,171958,Travel,Client_047,Completed
+CMP_0287,Health & Fitness_Lead Generation_Campaign_0287,TV Channels,Conversion,35-44,West,2022-02-20,2022-10-04,331932,Fashion,Client_037,Active
+CMP_0288,Health & Fitness_Engagement_Campaign_0288,Affiliate,Retargeting,55+,North,2022-01-26,2022-09-24,171958,Health & Fitness,Client_016,Active
+CMP_0289,Food & Beverages_Brand Awareness_Campaign_0289,SEO,Lead Generation,18-24,North,2022-11-30,2023-09-10,171958,Fashion,Client_045,Completed
+CMP_0290,Food & Beverages_Lead Generation_Campaign_0290,SEO,Engagement,35-44,Central,2022-10-04,2023-08-05,331932,Travel,Client_022,Active
+CMP_0291,Food & Beverages_Lead Generation_Campaign_0291,Email Marketing,Engagement,45-54,West,2022-01-08,2023-01-20,171958,Electronics,Client_020,Completed
+CMP_0292,Food & Beverages_Engagement_Campaign_0292,TV Channels,Conversion,25-34,North,2022-02-17,2023-01-09,171958,Health & Fitness,Client_050,Completed
+CMP_0293,Fashion_Engagement_Campaign_0293,Google Ads,Lead Generation,18-24,North,2022-05-02,2023-01-30,331932,Travel,Client_043,Completed
+CMP_0294,Beauty & Skincare_Engagement_Campaign_0294,TV Channels,Retargeting,25-34,West,2022-03-27,2023-03-31,331932,Food & Beverages,Client_027,Completed
+CMP_0295,Beauty & Skincare_Lead Generation_Campaign_0295,Google Ads,Lead Generation,35-44,East,2022-07-28,2023-05-26,171958,Education,Client_041,Completed
+CMP_0296,Health & Fitness_Engagement_Campaign_0296,YouTube Ads,Brand Awareness,55+,North,2022-09-06,2023-10-05,331932,Fashion,Client_016,Completed
+CMP_0297,Electronics_Brand Awareness_Campaign_0297,TV Channels,Lead Generation,55+,South,2022-09-04,2023-08-10,171958,Food & Beverages,Client_034,Completed
+CMP_0298,Fashion_Brand Awareness_Campaign_0298,Google Ads,Brand Awareness,45-54,West,2022-04-20,2022-11-15,171958,Health & Fitness,Client_032,Completed
+CMP_0299,Food & Beverages_Lead Generation_Campaign_0299,Affiliate,Brand Awareness,55+,North,2022-07-25,2023-06-06,331932,Health & Fitness,Client_026,Completed
+CMP_0300,Travel_Engagement_Campaign_0300,Influencer,Retargeting,18-24,Central,2022-01-31,2022-09-10,331932,Fashion,Client_025,Completed
+CMP_0301,Electronics_Conversion_Campaign_0301,Affiliate,Conversion,55+,South,2022-03-26,2022-12-31,331932,Food & Beverages,Client_002,Completed
+CMP_0302,Food & Beverages_Retargeting_Campaign_0302,Affiliate,Lead Generation,45-54,North,2022-07-14,2023-04-04,331932,Beauty & Skincare,Client_012,Active
+CMP_0303,Education_Lead Generation_Campaign_0303,Google Ads,Brand Awareness,35-44,South,2022-01-02,2022-10-11,2492743,Food & Beverages,Client_040,Active
+CMP_0304,Travel_Retargeting_Campaign_0304,TV Channels,Lead Generation,35-44,South,2022-07-19,2023-03-05,331932,Health & Fitness,Client_009,Active
+CMP_0305,Education_Brand Awareness_Campaign_0305,YouTube Ads,Conversion,55+,East,2022-05-16,2023-06-17,171958,Food & Beverages,Client_012,Paused
+CMP_0306,Electronics_Lead Generation_Campaign_0306,YouTube Ads,Conversion,25-34,South,2022-08-21,2023-06-20,331932,Education,Client_026,Completed
+CMP_0307,Education_Conversion_Campaign_0307,Google Ads,Engagement,35-44,East,2022-05-27,2023-04-23,171958,Travel,Client_009,Completed
+CMP_0308,Education_Conversion_Campaign_0308,Influencer,Conversion,55+,West,2022-08-05,2023-02-21,171958,Electronics,Client_010,Completed
+CMP_0309,Home & Living_Retargeting_Campaign_0309,TV Channels,Retargeting,45-54,East,2022-12-23,2023-12-26,171958,Education,Client_032,Completed
+CMP_0310,Beauty & Skincare_Retargeting_Campaign_0310,TV Channels,Brand Awareness,55+,Central,2022-10-12,2023-09-15,171958,Beauty & Skincare,Client_034,Active
+CMP_0311,Health & Fitness_Retargeting_Campaign_0311,Email Marketing,Engagement,35-44,North,2022-12-05,2023-10-19,2492743,Home & Living,Client_048,Active
+CMP_0312,Travel_Lead Generation_Campaign_0312,SEO,Retargeting,45-54,West,2022-09-07,2023-07-09,331932,Travel,Client_020,Completed
+CMP_0313,Health & Fitness_Engagement_Campaign_0313,SEO,Lead Generation,55+,West,2022-03-21,2022-10-20,331932,Electronics,Client_039,Completed
+CMP_0314,Fashion_Retargeting_Campaign_0314,Google Ads,Brand Awareness,18-24,Central,2022-04-08,2022-12-12,171958,Home & Living,Client_002,Completed
+CMP_0315,Home & Living_Conversion_Campaign_0315,Influencer,Conversion,45-54,East,2022-06-01,2023-04-29,171958,Fashion,Client_001,Completed
+CMP_0316,Fashion_Retargeting_Campaign_0316,TV Channels,Brand Awareness,18-24,North,2022-04-22,2023-02-08,171958,Home & Living,Client_036,Active
+CMP_0317,Education_Lead Generation_Campaign_0317,Google Ads,Lead Generation,25-34,East,2022-01-30,2023-01-24,171958,Travel,Client_024,Completed
+CMP_0318,Beauty & Skincare_Brand Awareness_Campaign_0318,Influencer,Engagement,45-54,South,2022-10-24,2023-11-21,331932,Food & Beverages,Client_027,Completed
+CMP_0319,Electronics_Retargeting_Campaign_0319,Affiliate,Engagement,18-24,East,2022-10-05,2023-08-28,331932,Travel,Client_002,Active
+CMP_0320,Travel_Engagement_Campaign_0320,Influencer,Engagement,35-44,West,2022-02-01,2023-01-27,331932,Education,Client_031,Completed
+CMP_0321,Travel_Lead Generation_Campaign_0321,Influencer,Conversion,35-44,North,2022-06-10,2023-04-19,171958,Home & Living,Client_014,Completed
+CMP_0322,Beauty & Skincare_Retargeting_Campaign_0322,SEO,Retargeting,25-34,East,2022-01-30,2023-02-28,2492743,Health & Fitness,Client_002,Completed
+CMP_0323,Health & Fitness_Lead Generation_Campaign_0323,Email Marketing,Retargeting,45-54,North,2022-01-26,2022-08-27,331932,Electronics,Client_029,Completed
+CMP_0324,Beauty & Skincare_Conversion_Campaign_0324,Google Ads,Brand Awareness,45-54,North,2022-10-27,2023-07-06,331932,Electronics,Client_015,Completed
+CMP_0325,Education_Conversion_Campaign_0325,TV Channels,Conversion,45-54,South,2022-09-02,2023-05-28,331932,Home & Living,Client_012,Active
+CMP_0326,Food & Beverages_Conversion_Campaign_0326,TV Channels,Engagement,25-34,South,2022-09-15,2023-08-21,171958,Electronics,Client_037,Completed
+CMP_0327,Electronics_Brand Awareness_Campaign_0327,TV Channels,Engagement,45-54,West,2022-09-29,2023-05-20,171958,Health & Fitness,Client_028,Completed
+CMP_0328,Travel_Engagement_Campaign_0328,YouTube Ads,Lead Generation,35-44,Central,2022-03-22,2022-12-20,171958,Travel,Client_020,Active
+CMP_0329,Education_Lead Generation_Campaign_0329,Email Marketing,Lead Generation,18-24,North,2022-01-30,2022-12-08,331932,Electronics,Client_039,Active
+CMP_0330,Home & Living_Engagement_Campaign_0330,Google Ads,Engagement,35-44,Central,2022-09-18,2023-10-01,171958,Home & Living,Client_024,Completed
+CMP_0331,Health & Fitness_Brand Awareness_Campaign_0331,TV Channels,Engagement,35-44,West,2022-02-11,2023-01-01,171958,Beauty & Skincare,Client_021,Completed
+CMP_0332,Electronics_Retargeting_Campaign_0332,YouTube Ads,Conversion,18-24,North,2022-04-06,2022-11-23,171958,Beauty & Skincare,Client_010,Active
+CMP_0333,Education_Engagement_Campaign_0333,Google Ads,Retargeting,35-44,North,2022-02-05,2022-08-31,171958,Fashion,Client_046,Completed
+CMP_0334,Education_Retargeting_Campaign_0334,Influencer,Lead Generation,25-34,Central,2022-11-01,2023-10-28,2492743,Education,Client_014,Paused
+CMP_0335,Electronics_Brand Awareness_Campaign_0335,Email Marketing,Retargeting,18-24,East,2022-02-04,2023-01-25,331932,Electronics,Client_037,Active
+CMP_0336,Travel_Lead Generation_Campaign_0336,Email Marketing,Conversion,35-44,South,2022-12-12,2023-08-30,171958,Education,Client_018,Active
+CMP_0337,Food & Beverages_Retargeting_Campaign_0337,SEO,Engagement,55+,East,2022-05-01,2023-05-17,171958,Travel,Client_024,Completed
+CMP_0338,Travel_Retargeting_Campaign_0338,Influencer,Retargeting,35-44,Central,2022-07-26,2023-03-23,171958,Home & Living,Client_014,Active
+CMP_0339,Electronics_Conversion_Campaign_0339,TV Channels,Engagement,25-34,South,2022-03-03,2022-12-07,171958,Electronics,Client_034,Completed
+CMP_0340,Electronics_Engagement_Campaign_0340,YouTube Ads,Engagement,45-54,East,2022-10-19,2023-09-25,171958,Food & Beverages,Client_012,Active
+CMP_0341,Home & Living_Retargeting_Campaign_0341,Email Marketing,Brand Awareness,35-44,South,2022-05-07,2022-11-26,171958,Health & Fitness,Client_022,Completed
+CMP_0342,Food & Beverages_Brand Awareness_Campaign_0342,TV Channels,Retargeting,45-54,North,2022-10-24,2023-09-30,171958,Electronics,Client_006,Completed
+CMP_0343,Travel_Engagement_Campaign_0343,Influencer,Retargeting,55+,East,2022-11-01,2023-09-01,331932,Electronics,Client_036,Completed
+CMP_0344,Education_Engagement_Campaign_0344,YouTube Ads,Engagement,35-44,South,2022-01-21,2022-09-01,331932,Education,Client_045,Completed
+CMP_0345,Food & Beverages_Engagement_Campaign_0345,SEO,Conversion,18-24,South,2022-11-14,2023-07-29,171958,Education,Client_036,Completed
+CMP_0346,Fashion_Lead Generation_Campaign_0346,Influencer,Brand Awareness,45-54,South,2022-02-11,2022-09-28,171958,Beauty & Skincare,Client_022,Completed
+CMP_0347,Fashion_Conversion_Campaign_0347,Influencer,Engagement,55+,East,2022-08-03,2023-06-17,331932,Health & Fitness,Client_014,Completed
+CMP_0348,Health & Fitness_Retargeting_Campaign_0348,YouTube Ads,Lead Generation,18-24,West,2022-12-03,2023-07-21,331932,Home & Living,Client_016,Active
+CMP_0349,Health & Fitness_Lead Generation_Campaign_0349,Influencer,Lead Generation,18-24,East,2022-10-26,2023-10-26,2492743,Electronics,Client_036,Completed
+CMP_0350,Home & Living_Engagement_Campaign_0350,YouTube Ads,Brand Awareness,18-24,Central,2022-10-17,2023-06-13,331932,Beauty & Skincare,Client_025,Active
+CMP_0351,Travel_Engagement_Campaign_0351,YouTube Ads,Conversion,18-24,East,2022-09-25,2023-08-18,171958,Education,Client_032,Completed
+CMP_0352,Electronics_Brand Awareness_Campaign_0352,SEO,Engagement,35-44,South,2022-06-11,2023-06-29,171958,Fashion,Client_033,Completed
+CMP_0353,Electronics_Lead Generation_Campaign_0353,YouTube Ads,Retargeting,35-44,North,2022-05-14,2023-02-12,331932,Health & Fitness,Client_045,Completed
+CMP_0354,Health & Fitness_Conversion_Campaign_0354,Google Ads,Brand Awareness,35-44,East,2022-04-15,2023-03-11,171958,Beauty & Skincare,Client_036,Active
+CMP_0355,Education_Lead Generation_Campaign_0355,Influencer,Conversion,55+,East,2022-12-09,2023-12-24,331932,Beauty & Skincare,Client_020,Completed
+CMP_0356,Beauty & Skincare_Retargeting_Campaign_0356,Influencer,Retargeting,55+,South,2022-06-10,2023-03-06,2492743,Travel,Client_018,Completed
+CMP_0357,Health & Fitness_Lead Generation_Campaign_0357,Google Ads,Lead Generation,55+,North,2022-05-03,2023-03-05,331932,Beauty & Skincare,Client_038,Completed
+CMP_0358,Travel_Engagement_Campaign_0358,Influencer,Lead Generation,25-34,North,2022-05-16,2023-04-04,171958,Travel,Client_003,Completed
+CMP_0359,Food & Beverages_Engagement_Campaign_0359,Google Ads,Retargeting,55+,Central,2022-07-22,2023-06-07,331932,Electronics,Client_023,Active
+CMP_0360,Health & Fitness_Engagement_Campaign_0360,TV Channels,Brand Awareness,35-44,East,2022-03-09,2022-11-26,171958,Electronics,Client_032,Completed
+CMP_0361,Education_Engagement_Campaign_0361,YouTube Ads,Lead Generation,35-44,North,2022-12-10,2023-10-22,331932,Education,Client_045,Completed
+CMP_0362,Food & Beverages_Conversion_Campaign_0362,Google Ads,Engagement,25-34,North,2022-11-27,2023-11-03,2492743,Fashion,Client_016,Completed
+CMP_0363,Electronics_Retargeting_Campaign_0363,Influencer,Retargeting,25-34,West,2022-06-03,2023-01-26,171958,Food & Beverages,Client_005,Paused
+CMP_0364,Health & Fitness_Brand Awareness_Campaign_0364,Influencer,Retargeting,55+,West,2022-08-23,2023-06-17,2492743,Food & Beverages,Client_004,Active
+CMP_0365,Travel_Engagement_Campaign_0365,Email Marketing,Lead Generation,45-54,North,2022-06-11,2023-02-14,2492743,Food & Beverages,Client_021,Active
+CMP_0366,Food & Beverages_Brand Awareness_Campaign_0366,Google Ads,Brand Awareness,25-34,Central,2022-02-07,2023-01-26,171958,Education,Client_040,Paused
+CMP_0367,Education_Retargeting_Campaign_0367,TV Channels,Engagement,18-24,North,2022-01-05,2022-12-01,171958,Travel,Client_014,Active
+CMP_0368,Home & Living_Brand Awareness_Campaign_0368,SEO,Brand Awareness,35-44,South,2022-08-23,2023-09-18,171958,Education,Client_039,Paused
+CMP_0369,Education_Lead Generation_Campaign_0369,Affiliate,Conversion,18-24,East,2022-11-15,2023-07-07,171958,Health & Fitness,Client_031,Paused
+CMP_0370,Travel_Lead Generation_Campaign_0370,SEO,Conversion,35-44,Central,2022-10-16,2023-05-21,171958,Health & Fitness,Client_014,Active
+CMP_0371,Home & Living_Brand Awareness_Campaign_0371,TV Channels,Lead Generation,35-44,South,2022-02-21,2022-11-18,331932,Fashion,Client_006,Completed
+CMP_0372,Fashion_Lead Generation_Campaign_0372,SEO,Lead Generation,25-34,Central,2022-02-07,2023-03-11,171958,Health & Fitness,Client_012,Active
+CMP_0373,Electronics_Conversion_Campaign_0373,Email Marketing,Lead Generation,25-34,South,2022-10-03,2023-08-05,171958,Food & Beverages,Client_016,Completed
+CMP_0374,Health & Fitness_Conversion_Campaign_0374,YouTube Ads,Conversion,18-24,East,2022-04-20,2023-02-01,331932,Food & Beverages,Client_017,Active
+CMP_0375,Beauty & Skincare_Conversion_Campaign_0375,Google Ads,Brand Awareness,35-44,East,2022-09-17,2023-08-12,171958,Education,Client_045,Active
+CMP_0376,Home & Living_Conversion_Campaign_0376,YouTube Ads,Brand Awareness,18-24,West,2022-05-16,2023-02-08,331932,Beauty & Skincare,Client_023,Completed
+CMP_0377,Education_Brand Awareness_Campaign_0377,Email Marketing,Lead Generation,45-54,South,2022-03-09,2022-09-25,171958,Health & Fitness,Client_014,Completed
+CMP_0378,Beauty & Skincare_Engagement_Campaign_0378,Affiliate,Engagement,18-24,West,2022-06-28,2023-03-27,171958,Education,Client_007,Paused
+CMP_0379,Home & Living_Engagement_Campaign_0379,TV Channels,Brand Awareness,55+,South,2022-02-05,2023-02-25,331932,Electronics,Client_046,Completed
+CMP_0380,Health & Fitness_Conversion_Campaign_0380,SEO,Conversion,18-24,West,2022-05-06,2023-02-06,331932,Electronics,Client_032,Completed
+CMP_0381,Travel_Retargeting_Campaign_0381,Affiliate,Retargeting,55+,East,2022-07-09,2023-06-24,2492743,Beauty & Skincare,Client_015,Completed
+CMP_0382,Beauty & Skincare_Conversion_Campaign_0382,Google Ads,Retargeting,55+,Central,2022-05-26,2023-05-09,331932,Beauty & Skincare,Client_044,Completed
+CMP_0383,Health & Fitness_Engagement_Campaign_0383,Affiliate,Retargeting,55+,West,2022-03-22,2023-03-25,331932,Beauty & Skincare,Client_017,Completed
+CMP_0384,Health & Fitness_Retargeting_Campaign_0384,YouTube Ads,Engagement,45-54,South,2022-08-13,2023-07-04,171958,Education,Client_041,Completed
+CMP_0385,Education_Lead Generation_Campaign_0385,Google Ads,Lead Generation,18-24,South,2022-10-06,2023-06-01,171958,Electronics,Client_047,Paused
+CMP_0386,Home & Living_Retargeting_Campaign_0386,TV Channels,Conversion,18-24,East,2022-12-27,2023-11-06,331932,Food & Beverages,Client_044,Completed
+CMP_0387,Food & Beverages_Lead Generation_Campaign_0387,YouTube Ads,Engagement,45-54,South,2022-06-04,2023-05-07,331932,Beauty & Skincare,Client_034,Completed
+CMP_0388,Food & Beverages_Retargeting_Campaign_0388,Google Ads,Conversion,35-44,North,2022-11-10,2023-09-29,2492743,Fashion,Client_005,Completed
+CMP_0389,Home & Living_Conversion_Campaign_0389,SEO,Conversion,25-34,Central,2022-12-01,2023-09-15,171958,Travel,Client_045,Paused
+CMP_0390,Health & Fitness_Conversion_Campaign_0390,TV Channels,Lead Generation,18-24,West,2022-09-28,2023-07-10,171958,Education,Client_027,Completed
+CMP_0391,Health & Fitness_Engagement_Campaign_0391,SEO,Retargeting,25-34,Central,2022-01-05,2022-12-12,331932,Beauty & Skincare,Client_023,Active
+CMP_0392,Food & Beverages_Retargeting_Campaign_0392,Google Ads,Lead Generation,45-54,East,2022-12-08,2024-01-07,171958,Travel,Client_040,Completed
+CMP_0393,Fashion_Engagement_Campaign_0393,Influencer,Engagement,35-44,West,2022-10-11,2023-09-15,2492743,Home & Living,Client_014,Active
+CMP_0394,Travel_Conversion_Campaign_0394,Affiliate,Engagement,35-44,West,2022-06-03,2023-03-26,2492743,Beauty & Skincare,Client_015,Completed
+CMP_0395,Health & Fitness_Lead Generation_Campaign_0395,Affiliate,Engagement,35-44,North,2022-12-06,2023-10-18,171958,Electronics,Client_043,Active
+CMP_0396,Food & Beverages_Brand Awareness_Campaign_0396,YouTube Ads,Lead Generation,45-54,East,2022-02-23,2022-12-02,331932,Health & Fitness,Client_033,Completed
+CMP_0397,Food & Beverages_Brand Awareness_Campaign_0397,Google Ads,Conversion,55+,South,2022-03-10,2022-11-13,331932,Beauty & Skincare,Client_031,Active
+CMP_0398,Health & Fitness_Conversion_Campaign_0398,YouTube Ads,Conversion,55+,North,2022-05-16,2023-05-29,171958,Education,Client_035,Active
+CMP_0399,Food & Beverages_Conversion_Campaign_0399,Google Ads,Brand Awareness,25-34,North,2022-03-01,2022-11-17,2492743,Health & Fitness,Client_017,Completed
+CMP_0400,Home & Living_Lead Generation_Campaign_0400,Google Ads,Engagement,55+,Central,2022-02-24,2023-02-05,331932,Home & Living,Client_028,Completed
+CMP_0401,Food & Beverages_Engagement_Campaign_0401,TV Channels,Conversion,55+,Central,2022-10-11,2023-08-05,331932,Fashion,Client_019,Active
+CMP_0402,Food & Beverages_Lead Generation_Campaign_0402,Email Marketing,Brand Awareness,35-44,Central,2022-03-21,2022-12-05,171958,Health & Fitness,Client_046,Completed
+CMP_0403,Fashion_Engagement_Campaign_0403,YouTube Ads,Conversion,35-44,North,2022-05-20,2023-06-22,2492743,Travel,Client_023,Completed
+CMP_0404,Home & Living_Lead Generation_Campaign_0404,YouTube Ads,Engagement,25-34,South,2022-05-25,2023-03-26,171958,Food & Beverages,Client_032,Active
+CMP_0405,Electronics_Engagement_Campaign_0405,Email Marketing,Retargeting,18-24,West,2022-11-06,2023-06-05,171958,Beauty & Skincare,Client_040,Active
+CMP_0406,Home & Living_Lead Generation_Campaign_0406,TV Channels,Engagement,25-34,Central,2022-04-18,2023-01-24,2492743,Home & Living,Client_013,Completed
+CMP_0407,Electronics_Brand Awareness_Campaign_0407,Affiliate,Lead Generation,25-34,South,2022-06-25,2023-07-20,171958,Home & Living,Client_020,Completed
+CMP_0408,Travel_Retargeting_Campaign_0408,Email Marketing,Conversion,45-54,East,2022-04-15,2023-03-02,171958,Health & Fitness,Client_035,Active
+CMP_0409,Education_Brand Awareness_Campaign_0409,Email Marketing,Conversion,45-54,Central,2022-12-18,2024-01-02,2492743,Fashion,Client_005,Completed
+CMP_0410,Beauty & Skincare_Brand Awareness_Campaign_0410,Google Ads,Lead Generation,25-34,West,2022-11-21,2023-09-14,2492743,Electronics,Client_009,Paused
+CMP_0411,Beauty & Skincare_Conversion_Campaign_0411,YouTube Ads,Lead Generation,25-34,East,2022-05-16,2023-03-10,331932,Beauty & Skincare,Client_029,Completed
+CMP_0412,Education_Conversion_Campaign_0412,YouTube Ads,Retargeting,25-34,East,2022-09-16,2023-09-20,331932,Home & Living,Client_006,Completed
+CMP_0413,Home & Living_Retargeting_Campaign_0413,TV Channels,Conversion,55+,West,2022-09-08,2023-09-09,171958,Fashion,Client_025,Completed
+CMP_0414,Health & Fitness_Retargeting_Campaign_0414,Google Ads,Conversion,45-54,Central,2022-05-09,2023-01-02,171958,Food & Beverages,Client_031,Paused
+CMP_0415,Electronics_Brand Awareness_Campaign_0415,YouTube Ads,Retargeting,25-34,North,2022-01-27,2022-12-19,171958,Home & Living,Client_022,Completed
+CMP_0416,Home & Living_Engagement_Campaign_0416,SEO,Brand Awareness,35-44,West,2022-02-17,2022-09-14,331932,Fashion,Client_002,Completed
+CMP_0417,Electronics_Lead Generation_Campaign_0417,TV Channels,Retargeting,35-44,West,2022-11-21,2023-07-11,331932,Education,Client_045,Completed
+CMP_0418,Travel_Lead Generation_Campaign_0418,Affiliate,Engagement,55+,West,2022-08-05,2023-06-29,331932,Electronics,Client_005,Completed
+CMP_0419,Electronics_Conversion_Campaign_0419,Google Ads,Conversion,55+,East,2022-05-22,2023-05-08,331932,Electronics,Client_027,Active
+CMP_0420,Education_Lead Generation_Campaign_0420,Email Marketing,Lead Generation,18-24,South,2022-01-23,2022-11-03,171958,Home & Living,Client_025,Completed
+CMP_0421,Food & Beverages_Brand Awareness_Campaign_0421,Affiliate,Engagement,18-24,North,2022-01-02,2022-08-15,171958,Travel,Client_008,Completed
+CMP_0422,Electronics_Retargeting_Campaign_0422,TV Channels,Conversion,18-24,Central,2022-06-20,2023-04-28,171958,Home & Living,Client_001,Completed
+CMP_0423,Fashion_Retargeting_Campaign_0423,SEO,Retargeting,55+,Central,2022-03-08,2022-10-19,331932,Health & Fitness,Client_020,Completed
+CMP_0424,Food & Beverages_Conversion_Campaign_0424,TV Channels,Engagement,55+,South,2022-11-23,2023-10-23,171958,Beauty & Skincare,Client_044,Completed
+CMP_0425,Education_Lead Generation_Campaign_0425,TV Channels,Conversion,55+,West,2022-05-15,2023-03-27,2492743,Fashion,Client_023,Active
+CMP_0426,Education_Retargeting_Campaign_0426,Affiliate,Brand Awareness,35-44,North,2022-03-24,2022-10-13,171958,Home & Living,Client_032,Completed
+CMP_0427,Home & Living_Brand Awareness_Campaign_0427,TV Channels,Brand Awareness,55+,Central,2022-08-15,2023-09-03,171958,Beauty & Skincare,Client_011,Completed
+CMP_0428,Health & Fitness_Lead Generation_Campaign_0428,Influencer,Lead Generation,35-44,Central,2022-10-10,2023-06-03,171958,Health & Fitness,Client_039,Active
+CMP_0429,Education_Retargeting_Campaign_0429,TV Channels,Conversion,18-24,West,2022-12-28,2023-10-28,331932,Education,Client_047,Active
+CMP_0430,Beauty & Skincare_Brand Awareness_Campaign_0430,Google Ads,Brand Awareness,18-24,South,2022-08-07,2023-08-09,331932,Education,Client_024,Paused
+CMP_0431,Health & Fitness_Retargeting_Campaign_0431,Google Ads,Retargeting,18-24,North,2022-10-15,2023-06-11,171958,Beauty & Skincare,Client_011,Active
+CMP_0432,Home & Living_Lead Generation_Campaign_0432,SEO,Conversion,25-34,South,2022-01-05,2022-08-12,171958,Home & Living,Client_029,Active
+CMP_0433,Travel_Conversion_Campaign_0433,TV Channels,Retargeting,25-34,South,2022-02-27,2023-01-13,331932,Electronics,Client_026,Paused
+CMP_0434,Health & Fitness_Brand Awareness_Campaign_0434,Influencer,Retargeting,45-54,North,2022-02-08,2023-03-15,171958,Fashion,Client_016,Completed
+CMP_0435,Travel_Brand Awareness_Campaign_0435,Email Marketing,Brand Awareness,45-54,North,2022-12-20,2023-09-13,331932,Fashion,Client_035,Completed
+CMP_0436,Beauty & Skincare_Lead Generation_Campaign_0436,Affiliate,Conversion,45-54,Central,2022-03-18,2022-12-29,331932,Education,Client_020,Completed
+CMP_0437,Education_Retargeting_Campaign_0437,Google Ads,Engagement,25-34,Central,2022-10-07,2023-10-01,171958,Education,Client_046,Active
+CMP_0438,Home & Living_Brand Awareness_Campaign_0438,Influencer,Brand Awareness,25-34,North,2022-01-19,2023-01-31,171958,Electronics,Client_003,Completed
+CMP_0439,Food & Beverages_Conversion_Campaign_0439,YouTube Ads,Brand Awareness,45-54,East,2022-07-09,2023-05-06,2492743,Travel,Client_001,Completed
+CMP_0440,Home & Living_Conversion_Campaign_0440,YouTube Ads,Conversion,45-54,Central,2022-10-26,2023-10-27,171958,Home & Living,Client_047,Completed
+CMP_0441,Food & Beverages_Retargeting_Campaign_0441,Influencer,Conversion,55+,East,2022-10-10,2023-05-18,171958,Education,Client_001,Completed
+CMP_0442,Food & Beverages_Engagement_Campaign_0442,YouTube Ads,Retargeting,45-54,North,2022-03-17,2022-12-26,331932,Education,Client_017,Completed
+CMP_0443,Electronics_Retargeting_Campaign_0443,SEO,Conversion,55+,Central,2022-08-09,2023-08-16,2492743,Education,Client_002,Completed
+CMP_0444,Health & Fitness_Lead Generation_Campaign_0444,Google Ads,Retargeting,35-44,South,2022-03-07,2023-02-06,2492743,Fashion,Client_029,Completed
+CMP_0445,Electronics_Brand Awareness_Campaign_0445,Google Ads,Brand Awareness,25-34,North,2022-01-22,2022-11-15,331932,Home & Living,Client_020,Completed
+CMP_0446,Education_Retargeting_Campaign_0446,Affiliate,Lead Generation,45-54,West,2022-06-07,2023-03-15,171958,Health & Fitness,Client_006,Completed
+CMP_0447,Beauty & Skincare_Conversion_Campaign_0447,SEO,Engagement,25-34,East,2022-07-06,2023-07-01,171958,Home & Living,Client_008,Completed
+CMP_0448,Food & Beverages_Brand Awareness_Campaign_0448,YouTube Ads,Brand Awareness,25-34,North,2022-01-21,2023-02-08,331932,Beauty & Skincare,Client_029,Completed
+CMP_0449,Food & Beverages_Retargeting_Campaign_0449,Email Marketing,Conversion,25-34,North,2022-07-03,2023-08-01,331932,Electronics,Client_048,Completed
+CMP_0450,Home & Living_Lead Generation_Campaign_0450,Google Ads,Engagement,35-44,Central,2022-04-18,2023-03-08,171958,Travel,Client_033,Completed
+CMP_0451,Beauty & Skincare_Conversion_Campaign_0451,Google Ads,Lead Generation,18-24,Central,2022-12-16,2023-11-19,2492743,Education,Client_003,Completed
+CMP_0452,Beauty & Skincare_Conversion_Campaign_0452,YouTube Ads,Lead Generation,45-54,Central,2022-05-08,2022-12-03,171958,Education,Client_035,Completed
+CMP_0453,Health & Fitness_Conversion_Campaign_0453,Email Marketing,Retargeting,18-24,West,2022-12-08,2023-12-01,171958,Home & Living,Client_005,Paused
+CMP_0454,Education_Engagement_Campaign_0454,Google Ads,Engagement,18-24,Central,2022-02-22,2022-09-27,171958,Travel,Client_027,Completed
+CMP_0455,Home & Living_Lead Generation_Campaign_0455,Email Marketing,Retargeting,18-24,North,2022-07-01,2023-03-18,171958,Education,Client_044,Completed
+CMP_0456,Fashion_Engagement_Campaign_0456,Google Ads,Brand Awareness,25-34,Central,2022-10-14,2023-10-10,171958,Travel,Client_012,Completed
+CMP_0457,Education_Engagement_Campaign_0457,SEO,Engagement,55+,South,2022-07-28,2023-08-07,171958,Health & Fitness,Client_020,Paused
+CMP_0458,Health & Fitness_Brand Awareness_Campaign_0458,TV Channels,Brand Awareness,25-34,Central,2022-11-14,2023-08-14,171958,Food & Beverages,Client_045,Completed
+CMP_0459,Fashion_Brand Awareness_Campaign_0459,YouTube Ads,Retargeting,25-34,West,2022-03-21,2022-12-04,331932,Electronics,Client_020,Completed
+CMP_0460,Home & Living_Engagement_Campaign_0460,TV Channels,Engagement,18-24,South,2022-05-02,2023-05-28,331932,Travel,Client_009,Completed
+CMP_0461,Beauty & Skincare_Lead Generation_Campaign_0461,Email Marketing,Retargeting,25-34,North,2022-03-25,2022-11-03,331932,Fashion,Client_039,Completed
+CMP_0462,Health & Fitness_Engagement_Campaign_0462,Google Ads,Engagement,18-24,North,2022-04-01,2023-02-06,2492743,Beauty & Skincare,Client_004,Active
+CMP_0463,Education_Brand Awareness_Campaign_0463,Google Ads,Retargeting,55+,East,2022-07-31,2023-03-13,171958,Fashion,Client_019,Completed
+CMP_0464,Home & Living_Engagement_Campaign_0464,TV Channels,Lead Generation,45-54,South,2022-01-13,2023-02-11,171958,Education,Client_038,Paused
+CMP_0465,Education_Brand Awareness_Campaign_0465,Email Marketing,Retargeting,18-24,East,2022-04-02,2023-03-30,2492743,Health & Fitness,Client_027,Completed
+CMP_0466,Education_Brand Awareness_Campaign_0466,SEO,Lead Generation,55+,South,2022-06-20,2023-07-05,171958,Health & Fitness,Client_045,Completed
+CMP_0467,Education_Lead Generation_Campaign_0467,TV Channels,Retargeting,45-54,South,2022-07-30,2023-03-12,2492743,Fashion,Client_043,Paused
+CMP_0468,Travel_Conversion_Campaign_0468,YouTube Ads,Engagement,35-44,West,2022-12-09,2023-10-18,171958,Electronics,Client_013,Completed
+CMP_0469,Electronics_Engagement_Campaign_0469,Influencer,Engagement,18-24,East,2022-05-08,2023-01-05,2492743,Fashion,Client_013,Completed
+CMP_0470,Education_Retargeting_Campaign_0470,YouTube Ads,Engagement,18-24,West,2022-05-17,2023-05-29,171958,Home & Living,Client_022,Completed
+CMP_0471,Electronics_Conversion_Campaign_0471,Google Ads,Conversion,35-44,South,2022-03-23,2022-12-24,2492743,Education,Client_028,Completed
+CMP_0472,Food & Beverages_Brand Awareness_Campaign_0472,Email Marketing,Brand Awareness,35-44,North,2022-12-26,2023-07-21,331932,Education,Client_047,Active
+CMP_0473,Home & Living_Engagement_Campaign_0473,Google Ads,Engagement,18-24,South,2022-02-25,2022-09-24,2492743,Fashion,Client_045,Completed
+CMP_0474,Fashion_Brand Awareness_Campaign_0474,TV Channels,Lead Generation,35-44,West,2022-07-15,2023-04-24,171958,Beauty & Skincare,Client_022,Completed
+CMP_0475,Travel_Retargeting_Campaign_0475,Affiliate,Engagement,25-34,East,2022-01-20,2022-08-22,331932,Beauty & Skincare,Client_043,Completed
+CMP_0476,Fashion_Engagement_Campaign_0476,Google Ads,Conversion,45-54,East,2022-08-29,2023-05-31,2492743,Education,Client_019,Completed
+CMP_0477,Electronics_Brand Awareness_Campaign_0477,Email Marketing,Lead Generation,45-54,West,2022-04-24,2023-02-09,331932,Food & Beverages,Client_008,Completed
+CMP_0478,Education_Brand Awareness_Campaign_0478,SEO,Conversion,45-54,East,2022-04-13,2023-02-02,331932,Beauty & Skincare,Client_008,Active
+CMP_0479,Food & Beverages_Conversion_Campaign_0479,YouTube Ads,Lead Generation,25-34,Central,2022-08-24,2023-06-30,331932,Fashion,Client_042,Completed
+CMP_0480,Beauty & Skincare_Lead Generation_Campaign_0480,Email Marketing,Retargeting,35-44,North,2022-06-29,2023-02-21,171958,Beauty & Skincare,Client_026,Active
+CMP_0481,Travel_Retargeting_Campaign_0481,Google Ads,Brand Awareness,55+,North,2022-06-06,2023-02-23,331932,Education,Client_048,Completed
+CMP_0482,Travel_Conversion_Campaign_0482,TV Channels,Brand Awareness,35-44,North,2022-04-27,2023-03-28,331932,Electronics,Client_026,Completed
+CMP_0483,Travel_Conversion_Campaign_0483,Email Marketing,Conversion,18-24,East,2022-04-25,2023-02-24,2492743,Travel,Client_023,Completed
+CMP_0484,Fashion_Engagement_Campaign_0484,Google Ads,Brand Awareness,45-54,East,2022-01-13,2022-12-23,171958,Beauty & Skincare,Client_043,Completed
+CMP_0485,Beauty & Skincare_Retargeting_Campaign_0485,TV Channels,Conversion,35-44,South,2022-12-04,2023-12-13,171958,Home & Living,Client_013,Active
+CMP_0486,Fashion_Lead Generation_Campaign_0486,Google Ads,Conversion,55+,South,2022-04-09,2022-12-11,2492743,Electronics,Client_028,Active
+CMP_0487,Travel_Engagement_Campaign_0487,Google Ads,Conversion,18-24,North,2022-07-24,2023-03-24,2492743,Food & Beverages,Client_009,Completed
+CMP_0488,Beauty & Skincare_Lead Generation_Campaign_0488,TV Channels,Brand Awareness,25-34,Central,2022-06-18,2023-02-17,171958,Home & Living,Client_020,Active
+CMP_0489,Electronics_Brand Awareness_Campaign_0489,Google Ads,Conversion,25-34,South,2022-05-23,2022-12-29,331932,Fashion,Client_019,Completed
+CMP_0490,Food & Beverages_Conversion_Campaign_0490,Email Marketing,Brand Awareness,55+,South,2022-02-05,2023-01-27,171958,Travel,Client_048,Active
+CMP_0491,Travel_Engagement_Campaign_0491,YouTube Ads,Conversion,18-24,East,2022-05-23,2023-03-16,171958,Fashion,Client_039,Completed
+CMP_0492,Travel_Lead Generation_Campaign_0492,Influencer,Engagement,45-54,Central,2022-06-29,2023-06-22,171958,Travel,Client_012,Completed
+CMP_0493,Home & Living_Conversion_Campaign_0493,Google Ads,Conversion,35-44,North,2022-11-25,2023-12-04,171958,Travel,Client_015,Active
+CMP_0494,Health & Fitness_Lead Generation_Campaign_0494,Google Ads,Lead Generation,18-24,South,2022-09-18,2023-06-06,331932,Fashion,Client_031,Completed
+CMP_0495,Food & Beverages_Lead Generation_Campaign_0495,Google Ads,Conversion,25-34,Central,2022-07-24,2023-06-16,171958,Home & Living,Client_014,Completed
+CMP_0496,Fashion_Brand Awareness_Campaign_0496,SEO,Retargeting,55+,Central,2022-12-14,2023-11-28,2492743,Home & Living,Client_011,Active
+CMP_0497,Travel_Engagement_Campaign_0497,YouTube Ads,Conversion,55+,North,2022-10-02,2023-05-26,2492743,Travel,Client_026,Completed
+CMP_0498,Electronics_Lead Generation_Campaign_0498,Google Ads,Lead Generation,35-44,Central,2022-06-19,2023-03-05,331932,Home & Living,Client_042,Completed
+CMP_0499,Home & Living_Brand Awareness_Campaign_0499,Affiliate,Lead Generation,55+,Central,2022-01-15,2022-11-29,331932,Travel,Client_027,Completed
+CMP_0500,Fashion_Engagement_Campaign_0500,Google Ads,Brand Awareness,55+,Central,2022-03-01,2023-02-27,171958,Education,Client_011,Active
+CMP_0501,Electronics_Conversion_Campaign_0501,Email Marketing,Engagement,18-24,South,2022-05-14,2023-02-03,331932,Travel,Client_038,Completed
+CMP_0502,Electronics_Lead Generation_Campaign_0502,YouTube Ads,Conversion,45-54,North,2022-04-02,2023-02-13,331932,Education,Client_034,Active
+CMP_0503,Electronics_Conversion_Campaign_0503,Influencer,Brand Awareness,35-44,Central,2022-10-25,2023-07-17,171958,Electronics,Client_043,Active
+CMP_0504,Education_Lead Generation_Campaign_0504,YouTube Ads,Engagement,18-24,Central,2022-05-16,2023-05-21,2492743,Health & Fitness,Client_019,Completed
+CMP_0505,Home & Living_Brand Awareness_Campaign_0505,Influencer,Conversion,45-54,South,2022-01-20,2022-08-10,331932,Electronics,Client_006,Completed
+CMP_0506,Beauty & Skincare_Engagement_Campaign_0506,TV Channels,Retargeting,18-24,North,2022-02-25,2023-01-10,2492743,Fashion,Client_046,Completed
+CMP_0507,Food & Beverages_Lead Generation_Campaign_0507,Influencer,Conversion,18-24,East,2022-11-02,2023-08-02,331932,Health & Fitness,Client_038,Completed
+CMP_0508,Health & Fitness_Engagement_Campaign_0508,Google Ads,Lead Generation,55+,South,2022-08-11,2023-08-19,331932,Beauty & Skincare,Client_049,Active
+CMP_0509,Health & Fitness_Lead Generation_Campaign_0509,Influencer,Lead Generation,45-54,North,2022-06-26,2023-05-31,171958,Fashion,Client_042,Completed
+CMP_0510,Food & Beverages_Lead Generation_Campaign_0510,Email Marketing,Retargeting,35-44,Central,2022-06-10,2023-02-05,2492743,Food & Beverages,Client_028,Active
+CMP_0511,Home & Living_Conversion_Campaign_0511,Influencer,Brand Awareness,35-44,North,2022-08-12,2023-03-18,2492743,Electronics,Client_001,Active
+CMP_0512,Food & Beverages_Retargeting_Campaign_0512,Email Marketing,Engagement,45-54,North,2022-11-07,2023-09-16,171958,Home & Living,Client_035,Completed
+CMP_0513,Electronics_Engagement_Campaign_0513,SEO,Conversion,55+,North,2022-09-19,2023-07-04,171958,Electronics,Client_040,Completed
+CMP_0514,Beauty & Skincare_Conversion_Campaign_0514,Email Marketing,Lead Generation,25-34,East,2022-03-01,2023-02-14,171958,Home & Living,Client_008,Completed
+CMP_0515,Education_Brand Awareness_Campaign_0515,YouTube Ads,Brand Awareness,18-24,North,2022-07-17,2023-04-19,331932,Health & Fitness,Client_047,Active
+CMP_0516,Health & Fitness_Conversion_Campaign_0516,Google Ads,Retargeting,55+,East,2022-10-23,2023-10-21,2492743,Food & Beverages,Client_007,Completed
+CMP_0517,Health & Fitness_Conversion_Campaign_0517,Google Ads,Lead Generation,45-54,Central,2022-04-08,2023-02-10,171958,Health & Fitness,Client_011,Completed
+CMP_0518,Travel_Lead Generation_Campaign_0518,TV Channels,Retargeting,18-24,East,2022-05-11,2023-05-22,331932,Food & Beverages,Client_039,Active
+CMP_0519,Food & Beverages_Conversion_Campaign_0519,Google Ads,Conversion,35-44,Central,2022-01-23,2022-10-14,171958,Electronics,Client_004,Completed
+CMP_0520,Beauty & Skincare_Engagement_Campaign_0520,Influencer,Engagement,25-34,Central,2022-12-29,2023-11-10,2492743,Home & Living,Client_025,Active
+CMP_0521,Education_Lead Generation_Campaign_0521,Google Ads,Lead Generation,35-44,East,2022-08-12,2023-05-16,331932,Health & Fitness,Client_012,Completed
+CMP_0522,Home & Living_Retargeting_Campaign_0522,Affiliate,Lead Generation,45-54,South,2022-01-01,2022-09-08,331932,Food & Beverages,Client_026,Completed
+CMP_0523,Beauty & Skincare_Conversion_Campaign_0523,TV Channels,Conversion,18-24,West,2022-09-24,2023-07-19,171958,Travel,Client_038,Active
+CMP_0524,Electronics_Engagement_Campaign_0524,Google Ads,Brand Awareness,45-54,North,2022-10-03,2023-08-22,171958,Fashion,Client_046,Completed
+CMP_0525,Travel_Conversion_Campaign_0525,YouTube Ads,Engagement,18-24,West,2022-12-18,2023-08-02,171958,Fashion,Client_012,Completed
+CMP_0526,Beauty & Skincare_Conversion_Campaign_0526,SEO,Lead Generation,55+,North,2022-12-10,2023-08-27,171958,Health & Fitness,Client_043,Active
+CMP_0527,Home & Living_Retargeting_Campaign_0527,Email Marketing,Engagement,25-34,North,2022-04-11,2023-02-02,2492743,Home & Living,Client_037,Paused
+CMP_0528,Home & Living_Retargeting_Campaign_0528,Email Marketing,Lead Generation,55+,Central,2022-07-06,2023-06-17,331932,Travel,Client_046,Completed
+CMP_0529,Fashion_Conversion_Campaign_0529,YouTube Ads,Engagement,55+,North,2022-08-09,2023-05-27,2492743,Health & Fitness,Client_024,Active
+CMP_0530,Health & Fitness_Brand Awareness_Campaign_0530,TV Channels,Retargeting,45-54,North,2022-02-05,2023-01-18,2492743,Electronics,Client_016,Completed
+CMP_0531,Home & Living_Brand Awareness_Campaign_0531,Affiliate,Lead Generation,25-34,East,2022-12-07,2023-09-08,331932,Food & Beverages,Client_013,Completed
+CMP_0532,Food & Beverages_Conversion_Campaign_0532,Affiliate,Engagement,18-24,West,2022-06-19,2023-07-03,331932,Education,Client_025,Completed
+CMP_0533,Electronics_Brand Awareness_Campaign_0533,SEO,Brand Awareness,18-24,East,2022-11-16,2023-08-18,2492743,Electronics,Client_004,Completed
+CMP_0534,Home & Living_Engagement_Campaign_0534,Google Ads,Retargeting,35-44,North,2022-06-10,2023-01-01,331932,Fashion,Client_011,Completed
+CMP_0535,Home & Living_Conversion_Campaign_0535,YouTube Ads,Retargeting,18-24,Central,2022-12-06,2023-12-09,171958,Food & Beverages,Client_032,Paused
+CMP_0536,Home & Living_Retargeting_Campaign_0536,Google Ads,Brand Awareness,45-54,East,2022-03-05,2022-12-31,171958,Health & Fitness,Client_049,Completed
+CMP_0537,Food & Beverages_Brand Awareness_Campaign_0537,Google Ads,Engagement,55+,East,2022-06-03,2023-02-28,171958,Electronics,Client_007,Completed
+CMP_0538,Home & Living_Lead Generation_Campaign_0538,TV Channels,Conversion,55+,South,2022-09-17,2023-04-07,2492743,Beauty & Skincare,Client_046,Completed
+CMP_0539,Fashion_Conversion_Campaign_0539,Email Marketing,Brand Awareness,55+,North,2022-06-08,2023-05-18,331932,Education,Client_011,Completed
+CMP_0540,Home & Living_Engagement_Campaign_0540,Influencer,Engagement,25-34,Central,2022-12-08,2023-12-18,171958,Home & Living,Client_028,Active
+CMP_0541,Home & Living_Conversion_Campaign_0541,YouTube Ads,Brand Awareness,18-24,East,2022-07-29,2023-09-01,331932,Travel,Client_041,Completed
+CMP_0542,Home & Living_Engagement_Campaign_0542,YouTube Ads,Brand Awareness,45-54,East,2022-06-17,2023-07-12,331932,Travel,Client_023,Completed
+CMP_0543,Health & Fitness_Retargeting_Campaign_0543,Email Marketing,Lead Generation,25-34,Central,2022-07-26,2023-02-23,171958,Home & Living,Client_045,Active
+CMP_0544,Travel_Conversion_Campaign_0544,TV Channels,Engagement,35-44,North,2022-12-23,2023-12-13,171958,Beauty & Skincare,Client_023,Active
+CMP_0545,Health & Fitness_Retargeting_Campaign_0545,TV Channels,Conversion,45-54,South,2022-06-01,2023-06-26,331932,Fashion,Client_050,Completed
+CMP_0546,Food & Beverages_Retargeting_Campaign_0546,Affiliate,Lead Generation,45-54,East,2022-10-11,2023-09-03,331932,Food & Beverages,Client_028,Completed
+CMP_0547,Education_Conversion_Campaign_0547,Google Ads,Brand Awareness,45-54,South,2022-03-07,2022-12-05,331932,Home & Living,Client_043,Completed
+CMP_0548,Fashion_Conversion_Campaign_0548,Influencer,Brand Awareness,55+,West,2022-04-09,2023-05-12,331932,Beauty & Skincare,Client_047,Completed
+CMP_0549,Health & Fitness_Lead Generation_Campaign_0549,SEO,Brand Awareness,45-54,North,2022-08-04,2023-04-19,2492743,Health & Fitness,Client_026,Completed
+CMP_0550,Health & Fitness_Retargeting_Campaign_0550,Email Marketing,Engagement,18-24,West,2022-12-07,2023-11-27,331932,Education,Client_025,Completed
+CMP_0551,Travel_Brand Awareness_Campaign_0551,YouTube Ads,Engagement,45-54,West,2022-07-14,2023-04-30,331932,Travel,Client_029,Active
+CMP_0552,Home & Living_Lead Generation_Campaign_0552,Email Marketing,Lead Generation,55+,West,2022-12-13,2023-08-26,2492743,Education,Client_019,Active
+CMP_0553,Electronics_Retargeting_Campaign_0553,Influencer,Conversion,45-54,North,2022-03-31,2023-03-28,171958,Beauty & Skincare,Client_033,Completed
+CMP_0554,Travel_Retargeting_Campaign_0554,Affiliate,Lead Generation,35-44,North,2022-11-12,2023-07-18,171958,Education,Client_036,Completed
+CMP_0555,Beauty & Skincare_Lead Generation_Campaign_0555,Email Marketing,Retargeting,35-44,Central,2022-10-19,2023-10-12,171958,Fashion,Client_014,Active
+CMP_0556,Health & Fitness_Lead Generation_Campaign_0556,TV Channels,Brand Awareness,55+,South,2022-06-04,2023-02-23,331932,Fashion,Client_014,Completed
+CMP_0557,Travel_Engagement_Campaign_0557,SEO,Brand Awareness,18-24,South,2022-07-27,2023-08-04,331932,Electronics,Client_035,Active
+CMP_0558,Home & Living_Conversion_Campaign_0558,Affiliate,Brand Awareness,18-24,Central,2022-10-08,2023-11-05,331932,Home & Living,Client_030,Completed
+CMP_0559,Health & Fitness_Retargeting_Campaign_0559,Google Ads,Lead Generation,25-34,Central,2022-01-01,2023-01-20,171958,Electronics,Client_028,Completed
+CMP_0560,Education_Conversion_Campaign_0560,SEO,Lead Generation,55+,West,2022-06-05,2023-07-06,171958,Education,Client_017,Completed
+CMP_0561,Education_Lead Generation_Campaign_0561,SEO,Brand Awareness,45-54,Central,2022-05-27,2023-05-30,171958,Travel,Client_003,Completed
+CMP_0562,Health & Fitness_Lead Generation_Campaign_0562,YouTube Ads,Lead Generation,55+,East,2022-04-18,2023-04-27,171958,Beauty & Skincare,Client_016,Active
+CMP_0563,Beauty & Skincare_Engagement_Campaign_0563,Google Ads,Engagement,25-34,South,2022-08-09,2023-04-01,331932,Food & Beverages,Client_046,Paused
+CMP_0564,Education_Lead Generation_Campaign_0564,YouTube Ads,Engagement,55+,Central,2022-10-24,2023-10-19,171958,Education,Client_030,Completed
+CMP_0565,Electronics_Engagement_Campaign_0565,Affiliate,Lead Generation,55+,East,2022-11-07,2023-06-19,171958,Food & Beverages,Client_029,Completed
+CMP_0566,Electronics_Brand Awareness_Campaign_0566,Google Ads,Brand Awareness,25-34,East,2022-12-02,2023-11-27,2492743,Fashion,Client_045,Completed
+CMP_0567,Electronics_Brand Awareness_Campaign_0567,TV Channels,Lead Generation,18-24,East,2022-06-14,2023-06-14,171958,Food & Beverages,Client_015,Completed
+CMP_0568,Travel_Lead Generation_Campaign_0568,Affiliate,Lead Generation,45-54,East,2022-08-27,2023-03-25,331932,Food & Beverages,Client_046,Completed
+CMP_0569,Home & Living_Brand Awareness_Campaign_0569,Google Ads,Lead Generation,25-34,West,2022-08-15,2023-05-21,331932,Travel,Client_025,Completed
+CMP_0570,Beauty & Skincare_Brand Awareness_Campaign_0570,Influencer,Retargeting,35-44,East,2022-08-15,2023-06-23,171958,Food & Beverages,Client_038,Active
+CMP_0571,Home & Living_Engagement_Campaign_0571,Email Marketing,Engagement,18-24,West,2022-12-12,2023-07-08,331932,Education,Client_042,Active
+CMP_0572,Education_Retargeting_Campaign_0572,TV Channels,Conversion,35-44,West,2022-04-20,2023-04-03,2492743,Beauty & Skincare,Client_047,Completed
+CMP_0573,Electronics_Engagement_Campaign_0573,Influencer,Conversion,18-24,East,2022-09-19,2023-07-09,2492743,Food & Beverages,Client_038,Completed
+CMP_0574,Education_Conversion_Campaign_0574,Email Marketing,Retargeting,45-54,South,2022-08-31,2023-09-22,171958,Health & Fitness,Client_023,Completed
+CMP_0575,Electronics_Brand Awareness_Campaign_0575,Email Marketing,Lead Generation,45-54,East,2022-03-28,2022-11-16,2492743,Food & Beverages,Client_025,Active
+CMP_0576,Travel_Brand Awareness_Campaign_0576,TV Channels,Retargeting,55+,East,2022-12-04,2023-07-15,171958,Food & Beverages,Client_042,Completed
+CMP_0577,Electronics_Engagement_Campaign_0577,SEO,Retargeting,35-44,East,2022-02-13,2022-11-15,171958,Electronics,Client_007,Completed
+CMP_0578,Food & Beverages_Engagement_Campaign_0578,Google Ads,Brand Awareness,18-24,South,2022-05-26,2023-03-05,171958,Beauty & Skincare,Client_022,Paused
+CMP_0579,Food & Beverages_Brand Awareness_Campaign_0579,TV Channels,Engagement,45-54,North,2022-09-21,2023-10-17,2492743,Education,Client_017,Completed
+CMP_0580,Travel_Lead Generation_Campaign_0580,Affiliate,Conversion,25-34,North,2022-12-06,2023-10-08,171958,Fashion,Client_018,Completed
+CMP_0581,Fashion_Brand Awareness_Campaign_0581,TV Channels,Lead Generation,45-54,West,2022-11-21,2023-07-23,171958,Electronics,Client_049,Completed
+CMP_0582,Beauty & Skincare_Lead Generation_Campaign_0582,SEO,Conversion,25-34,West,2022-11-14,2023-07-23,331932,Education,Client_041,Completed
+CMP_0583,Home & Living_Engagement_Campaign_0583,TV Channels,Conversion,18-24,South,2022-06-21,2023-02-09,171958,Home & Living,Client_010,Completed
+CMP_0584,Food & Beverages_Retargeting_Campaign_0584,YouTube Ads,Engagement,45-54,Central,2022-02-17,2023-01-21,171958,Beauty & Skincare,Client_010,Paused
+CMP_0585,Food & Beverages_Conversion_Campaign_0585,Google Ads,Conversion,45-54,North,2022-05-01,2023-02-18,171958,Health & Fitness,Client_007,Completed
+CMP_0586,Fashion_Retargeting_Campaign_0586,Affiliate,Conversion,18-24,West,2022-12-11,2023-11-11,171958,Beauty & Skincare,Client_048,Completed
+CMP_0587,Travel_Conversion_Campaign_0587,Email Marketing,Retargeting,45-54,North,2022-06-08,2023-05-02,171958,Home & Living,Client_050,Active
+CMP_0588,Home & Living_Lead Generation_Campaign_0588,TV Channels,Engagement,25-34,South,2022-04-26,2023-01-20,171958,Home & Living,Client_038,Active
+CMP_0589,Food & Beverages_Brand Awareness_Campaign_0589,Google Ads,Brand Awareness,45-54,South,2022-04-12,2022-12-10,331932,Home & Living,Client_027,Completed
+CMP_0590,Electronics_Brand Awareness_Campaign_0590,Google Ads,Lead Generation,35-44,Central,2022-03-17,2022-12-07,171958,Travel,Client_033,Completed
+CMP_0591,Travel_Conversion_Campaign_0591,Email Marketing,Conversion,55+,Central,2022-01-13,2022-12-02,171958,Fashion,Client_001,Completed
+CMP_0592,Travel_Engagement_Campaign_0592,TV Channels,Lead Generation,25-34,South,2022-01-24,2022-10-26,2492743,Food & Beverages,Client_044,Active
+CMP_0593,Education_Brand Awareness_Campaign_0593,Influencer,Brand Awareness,35-44,West,2022-05-06,2023-06-01,171958,Beauty & Skincare,Client_034,Completed
+CMP_0594,Electronics_Lead Generation_Campaign_0594,Email Marketing,Lead Generation,18-24,North,2022-09-01,2023-06-14,331932,Education,Client_004,Completed
+CMP_0595,Fashion_Conversion_Campaign_0595,TV Channels,Brand Awareness,25-34,East,2022-11-09,2023-06-26,171958,Travel,Client_017,Active
+CMP_0596,Travel_Retargeting_Campaign_0596,SEO,Retargeting,55+,Central,2022-02-07,2022-12-23,171958,Education,Client_004,Completed
+CMP_0597,Fashion_Engagement_Campaign_0597,YouTube Ads,Conversion,55+,East,2022-08-22,2023-03-29,171958,Food & Beverages,Client_043,Active
+CMP_0598,Electronics_Lead Generation_Campaign_0598,Google Ads,Brand Awareness,18-24,West,2022-08-01,2023-03-25,171958,Food & Beverages,Client_026,Completed
+CMP_0599,Home & Living_Engagement_Campaign_0599,Google Ads,Lead Generation,18-24,Central,2022-11-19,2023-12-17,171958,Health & Fitness,Client_004,Completed
+CMP_0600,Education_Retargeting_Campaign_0600,Google Ads,Conversion,25-34,East,2022-10-22,2023-07-06,171958,Home & Living,Client_001,Active
+CMP_0601,Electronics_Brand Awareness_Campaign_0601,YouTube Ads,Retargeting,45-54,West,2022-04-10,2023-04-18,171958,Fashion,Client_007,Completed
+CMP_0602,Food & Beverages_Engagement_Campaign_0602,SEO,Conversion,18-24,North,2022-12-23,2024-01-12,171958,Health & Fitness,Client_030,Completed
+CMP_0603,Electronics_Lead Generation_Campaign_0603,Email Marketing,Brand Awareness,45-54,West,2022-07-16,2023-07-23,171958,Electronics,Client_050,Completed
+CMP_0604,Health & Fitness_Brand Awareness_Campaign_0604,Influencer,Retargeting,35-44,Central,2022-09-11,2023-07-09,171958,Travel,Client_009,Active
+CMP_0605,Home & Living_Engagement_Campaign_0605,Influencer,Lead Generation,55+,South,2022-07-24,2023-07-01,171958,Travel,Client_035,Active
+CMP_0606,Beauty & Skincare_Conversion_Campaign_0606,SEO,Retargeting,45-54,North,2022-05-05,2023-02-22,331932,Fashion,Client_008,Active
+CMP_0607,Fashion_Retargeting_Campaign_0607,Influencer,Retargeting,55+,East,2022-03-17,2022-10-26,331932,Food & Beverages,Client_024,Completed
+CMP_0608,Beauty & Skincare_Engagement_Campaign_0608,Google Ads,Engagement,45-54,Central,2022-12-02,2023-09-29,171958,Education,Client_019,Completed
+CMP_0609,Home & Living_Engagement_Campaign_0609,Google Ads,Retargeting,35-44,South,2022-12-19,2023-07-10,331932,Travel,Client_036,Completed
+CMP_0610,Travel_Engagement_Campaign_0610,TV Channels,Retargeting,18-24,West,2022-01-03,2022-09-27,331932,Fashion,Client_050,Completed
+CMP_0611,Health & Fitness_Conversion_Campaign_0611,Google Ads,Conversion,35-44,South,2022-02-24,2023-01-27,171958,Travel,Client_043,Paused
+CMP_0612,Beauty & Skincare_Brand Awareness_Campaign_0612,Email Marketing,Lead Generation,18-24,Central,2022-08-06,2023-03-25,2492743,Travel,Client_027,Completed
+CMP_0613,Health & Fitness_Brand Awareness_Campaign_0613,Affiliate,Conversion,18-24,Central,2022-04-23,2023-03-05,2492743,Home & Living,Client_032,Completed
+CMP_0614,Fashion_Conversion_Campaign_0614,Google Ads,Conversion,55+,South,2022-04-01,2023-01-20,171958,Electronics,Client_014,Active
+CMP_0615,Home & Living_Brand Awareness_Campaign_0615,Google Ads,Brand Awareness,35-44,West,2022-12-23,2023-12-30,171958,Home & Living,Client_018,Completed
+CMP_0616,Health & Fitness_Engagement_Campaign_0616,Email Marketing,Conversion,45-54,South,2022-09-23,2023-10-19,331932,Electronics,Client_028,Active
+CMP_0617,Travel_Retargeting_Campaign_0617,Affiliate,Engagement,35-44,Central,2022-08-26,2023-09-02,331932,Travel,Client_029,Active
+CMP_0618,Electronics_Retargeting_Campaign_0618,TV Channels,Engagement,55+,Central,2022-01-26,2022-10-20,171958,Health & Fitness,Client_016,Completed
+CMP_0619,Education_Conversion_Campaign_0619,Email Marketing,Brand Awareness,18-24,East,2022-10-13,2023-09-27,171958,Education,Client_035,Completed
+CMP_0620,Home & Living_Retargeting_Campaign_0620,Google Ads,Lead Generation,55+,East,2022-05-08,2023-03-01,171958,Food & Beverages,Client_047,Active
+CMP_0621,Travel_Conversion_Campaign_0621,Google Ads,Lead Generation,25-34,North,2022-03-04,2023-03-02,171958,Travel,Client_031,Completed
+CMP_0622,Beauty & Skincare_Engagement_Campaign_0622,Affiliate,Conversion,25-34,Central,2022-08-22,2023-06-13,331932,Electronics,Client_004,Completed
+CMP_0623,Travel_Brand Awareness_Campaign_0623,Affiliate,Conversion,45-54,East,2022-03-10,2022-10-23,171958,Electronics,Client_037,Completed
+CMP_0624,Food & Beverages_Lead Generation_Campaign_0624,Google Ads,Conversion,55+,South,2022-08-26,2023-09-02,171958,Electronics,Client_017,Active
+CMP_0625,Fashion_Brand Awareness_Campaign_0625,Affiliate,Lead Generation,45-54,West,2022-12-08,2023-08-24,331932,Travel,Client_039,Active
+CMP_0626,Food & Beverages_Lead Generation_Campaign_0626,SEO,Retargeting,45-54,South,2022-09-29,2023-08-15,171958,Fashion,Client_048,Completed
+CMP_0627,Travel_Lead Generation_Campaign_0627,Influencer,Engagement,25-34,West,2022-10-14,2023-05-08,171958,Health & Fitness,Client_046,Completed
+CMP_0628,Travel_Retargeting_Campaign_0628,Email Marketing,Retargeting,45-54,East,2022-11-01,2023-10-25,331932,Fashion,Client_026,Completed
+CMP_0629,Health & Fitness_Brand Awareness_Campaign_0629,Email Marketing,Retargeting,25-34,North,2022-06-12,2023-05-21,2492743,Food & Beverages,Client_048,Completed
+CMP_0630,Fashion_Brand Awareness_Campaign_0630,Email Marketing,Lead Generation,18-24,South,2022-08-15,2023-05-25,331932,Travel,Client_039,Active
+CMP_0631,Food & Beverages_Conversion_Campaign_0631,SEO,Retargeting,55+,South,2022-11-10,2023-11-01,331932,Electronics,Client_041,Active
+CMP_0632,Health & Fitness_Retargeting_Campaign_0632,Google Ads,Brand Awareness,45-54,South,2022-09-16,2023-05-30,171958,Health & Fitness,Client_004,Completed
+CMP_0633,Fashion_Lead Generation_Campaign_0633,Google Ads,Conversion,25-34,West,2022-08-07,2023-08-07,171958,Health & Fitness,Client_030,Active
+CMP_0634,Fashion_Lead Generation_Campaign_0634,TV Channels,Brand Awareness,35-44,East,2022-10-08,2023-05-12,331932,Beauty & Skincare,Client_030,Completed
+CMP_0635,Travel_Conversion_Campaign_0635,YouTube Ads,Engagement,45-54,South,2022-08-17,2023-08-14,171958,Food & Beverages,Client_022,Completed
+CMP_0636,Travel_Brand Awareness_Campaign_0636,Google Ads,Conversion,18-24,South,2022-03-23,2023-02-04,171958,Education,Client_011,Active
+CMP_0637,Electronics_Brand Awareness_Campaign_0637,YouTube Ads,Retargeting,18-24,North,2022-09-01,2023-09-15,171958,Education,Client_002,Active
+CMP_0638,Health & Fitness_Engagement_Campaign_0638,Affiliate,Engagement,35-44,North,2022-08-19,2023-05-23,171958,Health & Fitness,Client_044,Completed
+CMP_0639,Fashion_Engagement_Campaign_0639,Google Ads,Conversion,25-34,East,2022-05-13,2023-05-14,171958,Travel,Client_012,Active
+CMP_0640,Health & Fitness_Conversion_Campaign_0640,YouTube Ads,Retargeting,45-54,East,2022-05-07,2023-03-07,171958,Electronics,Client_030,Active
+CMP_0641,Electronics_Retargeting_Campaign_0641,Email Marketing,Brand Awareness,25-34,Central,2022-11-23,2023-07-10,171958,Electronics,Client_036,Completed
+CMP_0642,Travel_Conversion_Campaign_0642,Influencer,Conversion,18-24,North,2022-05-22,2023-01-12,171958,Health & Fitness,Client_018,Completed
+CMP_0643,Fashion_Engagement_Campaign_0643,Google Ads,Retargeting,25-34,Central,2022-09-24,2023-04-23,2492743,Fashion,Client_026,Active
+CMP_0644,Home & Living_Engagement_Campaign_0644,YouTube Ads,Brand Awareness,18-24,West,2022-09-06,2023-04-03,331932,Food & Beverages,Client_007,Completed
+CMP_0645,Beauty & Skincare_Conversion_Campaign_0645,Influencer,Engagement,25-34,Central,2022-11-17,2023-08-21,331932,Electronics,Client_001,Completed
+CMP_0646,Beauty & Skincare_Lead Generation_Campaign_0646,Affiliate,Engagement,35-44,South,2022-05-03,2023-03-25,331932,Health & Fitness,Client_026,Completed
+CMP_0647,Food & Beverages_Retargeting_Campaign_0647,YouTube Ads,Engagement,55+,Central,2022-05-21,2023-01-05,171958,Electronics,Client_023,Completed
+CMP_0648,Food & Beverages_Conversion_Campaign_0648,Email Marketing,Engagement,35-44,East,2022-08-14,2023-03-26,171958,Education,Client_026,Completed
+CMP_0649,Beauty & Skincare_Brand Awareness_Campaign_0649,SEO,Lead Generation,35-44,West,2022-02-09,2022-10-27,331932,Health & Fitness,Client_045,Completed
+CMP_0650,Beauty & Skincare_Conversion_Campaign_0650,Influencer,Conversion,55+,South,2023-01-01,2023-12-04,331932,Food & Beverages,Client_006,Active
+CMP_0651,Food & Beverages_Conversion_Campaign_0651,SEO,Conversion,55+,Central,2022-05-27,2023-01-16,331932,Health & Fitness,Client_006,Active
+CMP_0652,Food & Beverages_Conversion_Campaign_0652,Google Ads,Lead Generation,45-54,West,2022-05-01,2023-02-24,171958,Beauty & Skincare,Client_044,Completed
+CMP_0653,Fashion_Retargeting_Campaign_0653,Affiliate,Retargeting,45-54,West,2022-05-20,2023-04-01,171958,Health & Fitness,Client_008,Completed
+CMP_0654,Food & Beverages_Lead Generation_Campaign_0654,YouTube Ads,Retargeting,35-44,South,2022-06-21,2023-04-11,171958,Health & Fitness,Client_024,Active
+CMP_0655,Education_Engagement_Campaign_0655,YouTube Ads,Engagement,35-44,Central,2022-06-13,2023-06-19,171958,Travel,Client_022,Completed
+CMP_0656,Home & Living_Conversion_Campaign_0656,Google Ads,Brand Awareness,18-24,West,2022-10-04,2023-10-29,331932,Education,Client_019,Completed
+CMP_0657,Fashion_Lead Generation_Campaign_0657,SEO,Retargeting,18-24,West,2022-02-11,2023-02-24,331932,Food & Beverages,Client_037,Completed
+CMP_0658,Food & Beverages_Brand Awareness_Campaign_0658,TV Channels,Brand Awareness,45-54,North,2022-03-12,2023-02-13,171958,Travel,Client_018,Completed
+CMP_0659,Travel_Retargeting_Campaign_0659,SEO,Conversion,45-54,West,2022-03-19,2023-01-20,2492743,Health & Fitness,Client_031,Completed
+CMP_0660,Travel_Retargeting_Campaign_0660,Google Ads,Brand Awareness,18-24,North,2022-04-29,2023-04-14,331932,Food & Beverages,Client_037,Active
+CMP_0661,Education_Retargeting_Campaign_0661,SEO,Conversion,18-24,Central,2022-07-16,2023-08-10,171958,Beauty & Skincare,Client_030,Active
+CMP_0662,Travel_Engagement_Campaign_0662,Affiliate,Lead Generation,25-34,Central,2022-12-22,2024-01-12,171958,Food & Beverages,Client_042,Completed
+CMP_0663,Beauty & Skincare_Retargeting_Campaign_0663,Google Ads,Lead Generation,25-34,Central,2022-03-20,2022-11-14,171958,Electronics,Client_033,Active
+CMP_0664,Health & Fitness_Engagement_Campaign_0664,Affiliate,Engagement,18-24,East,2022-12-28,2023-10-30,171958,Travel,Client_010,Completed
+CMP_0665,Home & Living_Conversion_Campaign_0665,TV Channels,Retargeting,25-34,Central,2022-04-20,2023-04-22,171958,Food & Beverages,Client_037,Completed
+CMP_0666,Health & Fitness_Lead Generation_Campaign_0666,Influencer,Engagement,55+,West,2022-02-02,2022-09-15,171958,Education,Client_012,Completed
+CMP_0667,Travel_Retargeting_Campaign_0667,YouTube Ads,Conversion,45-54,South,2022-08-01,2023-06-22,171958,Beauty & Skincare,Client_030,Active
+CMP_0668,Food & Beverages_Conversion_Campaign_0668,Email Marketing,Engagement,45-54,North,2022-07-28,2023-07-20,171958,Home & Living,Client_027,Active
+CMP_0669,Home & Living_Retargeting_Campaign_0669,YouTube Ads,Brand Awareness,18-24,East,2022-06-19,2023-04-19,2492743,Health & Fitness,Client_039,Completed
+CMP_0670,Travel_Retargeting_Campaign_0670,Influencer,Conversion,35-44,Central,2022-10-05,2023-07-03,171958,Food & Beverages,Client_009,Completed
+CMP_0671,Travel_Retargeting_Campaign_0671,TV Channels,Lead Generation,18-24,Central,2022-08-27,2023-03-23,331932,Health & Fitness,Client_021,Completed
+CMP_0672,Fashion_Engagement_Campaign_0672,TV Channels,Retargeting,25-34,South,2022-08-01,2023-08-12,171958,Fashion,Client_012,Completed
+CMP_0673,Home & Living_Engagement_Campaign_0673,SEO,Conversion,35-44,South,2022-02-01,2022-11-22,2492743,Electronics,Client_029,Completed
+CMP_0674,Beauty & Skincare_Engagement_Campaign_0674,Influencer,Conversion,25-34,East,2022-04-16,2022-12-27,171958,Travel,Client_033,Completed
+CMP_0675,Electronics_Conversion_Campaign_0675,YouTube Ads,Brand Awareness,55+,North,2022-08-04,2023-06-13,171958,Electronics,Client_043,Active
+CMP_0676,Home & Living_Conversion_Campaign_0676,YouTube Ads,Retargeting,25-34,Central,2022-07-19,2023-05-28,2492743,Fashion,Client_015,Active
+CMP_0677,Food & Beverages_Brand Awareness_Campaign_0677,Email Marketing,Lead Generation,55+,East,2022-10-27,2023-07-14,2492743,Fashion,Client_002,Completed
+CMP_0678,Travel_Conversion_Campaign_0678,Influencer,Conversion,55+,West,2022-12-23,2023-10-11,331932,Travel,Client_039,Completed
+CMP_0679,Beauty & Skincare_Retargeting_Campaign_0679,Google Ads,Conversion,25-34,West,2022-01-11,2022-08-24,171958,Food & Beverages,Client_044,Paused
+CMP_0680,Home & Living_Retargeting_Campaign_0680,Email Marketing,Brand Awareness,25-34,East,2022-10-22,2023-11-01,171958,Fashion,Client_018,Completed
+CMP_0681,Beauty & Skincare_Conversion_Campaign_0681,Google Ads,Engagement,55+,Central,2022-07-14,2023-05-04,331932,Home & Living,Client_003,Completed
+CMP_0682,Travel_Brand Awareness_Campaign_0682,TV Channels,Lead Generation,35-44,East,2022-09-02,2023-08-07,2492743,Health & Fitness,Client_007,Completed
+CMP_0683,Education_Engagement_Campaign_0683,TV Channels,Retargeting,55+,Central,2022-01-04,2023-01-04,331932,Health & Fitness,Client_043,Completed
+CMP_0684,Education_Engagement_Campaign_0684,TV Channels,Conversion,45-54,South,2022-06-30,2023-04-17,331932,Beauty & Skincare,Client_018,Completed
+CMP_0685,Travel_Engagement_Campaign_0685,YouTube Ads,Conversion,55+,East,2022-06-02,2023-01-03,171958,Education,Client_044,Completed
+CMP_0686,Travel_Engagement_Campaign_0686,TV Channels,Lead Generation,35-44,Central,2022-07-19,2023-05-16,331932,Fashion,Client_038,Completed
+CMP_0687,Electronics_Retargeting_Campaign_0687,Email Marketing,Engagement,45-54,East,2022-08-03,2023-04-30,171958,Fashion,Client_037,Paused
+CMP_0688,Fashion_Brand Awareness_Campaign_0688,TV Channels,Conversion,18-24,East,2022-10-03,2023-06-08,171958,Home & Living,Client_033,Active
+CMP_0689,Home & Living_Retargeting_Campaign_0689,TV Channels,Lead Generation,18-24,Central,2022-10-07,2023-05-26,171958,Electronics,Client_044,Active
+CMP_0690,Beauty & Skincare_Engagement_Campaign_0690,TV Channels,Brand Awareness,35-44,Central,2022-11-05,2023-09-17,331932,Electronics,Client_031,Completed
+CMP_0691,Electronics_Engagement_Campaign_0691,Google Ads,Engagement,55+,North,2022-04-23,2022-12-02,171958,Health & Fitness,Client_011,Completed
+CMP_0692,Travel_Retargeting_Campaign_0692,SEO,Retargeting,25-34,East,2022-09-07,2023-09-11,171958,Health & Fitness,Client_004,Completed
+CMP_0693,Travel_Brand Awareness_Campaign_0693,SEO,Conversion,35-44,West,2022-04-23,2023-01-02,331932,Food & Beverages,Client_018,Completed
+CMP_0694,Electronics_Brand Awareness_Campaign_0694,SEO,Lead Generation,45-54,East,2022-05-20,2023-05-19,171958,Travel,Client_004,Completed
+CMP_0695,Food & Beverages_Lead Generation_Campaign_0695,Email Marketing,Brand Awareness,45-54,East,2022-08-12,2023-08-10,331932,Education,Client_049,Completed
+CMP_0696,Home & Living_Conversion_Campaign_0696,TV Channels,Retargeting,18-24,Central,2022-09-06,2023-08-24,171958,Home & Living,Client_034,Completed
+CMP_0697,Health & Fitness_Conversion_Campaign_0697,Influencer,Lead Generation,45-54,East,2022-01-15,2022-08-08,171958,Travel,Client_029,Completed
+CMP_0698,Education_Engagement_Campaign_0698,Email Marketing,Lead Generation,35-44,East,2022-07-19,2023-02-16,331932,Travel,Client_024,Active
+CMP_0699,Beauty & Skincare_Retargeting_Campaign_0699,Email Marketing,Retargeting,45-54,West,2022-06-22,2023-04-03,171958,Beauty & Skincare,Client_022,Completed
+CMP_0700,Electronics_Conversion_Campaign_0700,Google Ads,Brand Awareness,35-44,Central,2022-12-09,2023-08-28,171958,Travel,Client_002,Paused
+CMP_0701,Fashion_Retargeting_Campaign_0701,TV Channels,Brand Awareness,25-34,East,2022-12-14,2023-08-03,171958,Beauty & Skincare,Client_044,Completed
+CMP_0702,Travel_Brand Awareness_Campaign_0702,TV Channels,Engagement,18-24,South,2022-07-27,2023-07-06,171958,Travel,Client_006,Completed
+CMP_0703,Fashion_Lead Generation_Campaign_0703,TV Channels,Conversion,45-54,North,2022-03-26,2022-12-03,2492743,Home & Living,Client_042,Completed
+CMP_0704,Health & Fitness_Retargeting_Campaign_0704,SEO,Retargeting,35-44,West,2022-08-28,2023-04-02,171958,Beauty & Skincare,Client_025,Active
+CMP_0705,Health & Fitness_Conversion_Campaign_0705,Email Marketing,Retargeting,55+,East,2022-03-07,2023-04-06,331932,Electronics,Client_021,Completed
+CMP_0706,Home & Living_Engagement_Campaign_0706,SEO,Retargeting,18-24,South,2022-11-15,2023-10-22,171958,Beauty & Skincare,Client_016,Completed
+CMP_0707,Education_Retargeting_Campaign_0707,YouTube Ads,Brand Awareness,25-34,East,2022-10-01,2023-06-11,331932,Beauty & Skincare,Client_031,Completed
+CMP_0708,Education_Brand Awareness_Campaign_0708,Influencer,Conversion,35-44,East,2022-01-14,2022-12-30,331932,Home & Living,Client_014,Active
+CMP_0709,Education_Conversion_Campaign_0709,YouTube Ads,Engagement,25-34,Central,2022-07-21,2023-04-02,331932,Home & Living,Client_039,Active
+CMP_0710,Health & Fitness_Brand Awareness_Campaign_0710,Affiliate,Lead Generation,25-34,Central,2022-10-31,2023-07-17,171958,Beauty & Skincare,Client_028,Active
+CMP_0711,Food & Beverages_Brand Awareness_Campaign_0711,Google Ads,Lead Generation,45-54,Central,2022-10-16,2023-07-27,171958,Education,Client_032,Active
+CMP_0712,Fashion_Brand Awareness_Campaign_0712,Google Ads,Retargeting,45-54,South,2022-12-06,2024-01-08,171958,Fashion,Client_028,Active
+CMP_0713,Health & Fitness_Brand Awareness_Campaign_0713,Google Ads,Conversion,35-44,East,2022-01-14,2022-09-08,2492743,Education,Client_049,Completed
+CMP_0714,Beauty & Skincare_Lead Generation_Campaign_0714,SEO,Brand Awareness,55+,North,2022-02-12,2023-01-30,331932,Home & Living,Client_009,Active
+CMP_0715,Beauty & Skincare_Engagement_Campaign_0715,Influencer,Conversion,35-44,West,2022-11-26,2023-06-14,2492743,Education,Client_045,Active
+CMP_0716,Beauty & Skincare_Retargeting_Campaign_0716,TV Channels,Conversion,55+,Central,2022-08-08,2023-05-05,171958,Education,Client_022,Completed
+CMP_0717,Travel_Conversion_Campaign_0717,Affiliate,Brand Awareness,25-34,Central,2022-03-11,2022-11-03,331932,Food & Beverages,Client_032,Active
+CMP_0718,Home & Living_Conversion_Campaign_0718,Google Ads,Retargeting,18-24,East,2022-08-25,2023-04-15,2492743,Food & Beverages,Client_005,Active
+CMP_0719,Beauty & Skincare_Lead Generation_Campaign_0719,Affiliate,Conversion,35-44,East,2022-04-04,2023-03-08,171958,Electronics,Client_023,Completed
+CMP_0720,Travel_Conversion_Campaign_0720,TV Channels,Lead Generation,35-44,South,2022-01-26,2022-10-17,171958,Travel,Client_005,Active
+CMP_0721,Electronics_Engagement_Campaign_0721,Google Ads,Brand Awareness,55+,South,2022-05-14,2023-01-13,331932,Beauty & Skincare,Client_042,Completed
+CMP_0722,Home & Living_Conversion_Campaign_0722,Email Marketing,Engagement,25-34,Central,2022-07-14,2023-02-27,331932,Fashion,Client_032,Active
+CMP_0723,Travel_Conversion_Campaign_0723,TV Channels,Retargeting,25-34,East,2022-06-17,2023-06-21,331932,Electronics,Client_010,Completed
+CMP_0724,Electronics_Lead Generation_Campaign_0724,TV Channels,Brand Awareness,55+,North,2022-04-19,2022-11-11,171958,Beauty & Skincare,Client_039,Paused
+CMP_0725,Home & Living_Retargeting_Campaign_0725,TV Channels,Engagement,25-34,West,2022-08-21,2023-04-11,331932,Education,Client_015,Completed
+CMP_0726,Fashion_Engagement_Campaign_0726,Influencer,Engagement,45-54,East,2022-06-17,2023-01-06,171958,Home & Living,Client_007,Completed
+CMP_0727,Fashion_Engagement_Campaign_0727,Email Marketing,Conversion,18-24,East,2022-06-22,2023-04-09,171958,Food & Beverages,Client_029,Completed
+CMP_0728,Beauty & Skincare_Retargeting_Campaign_0728,TV Channels,Conversion,35-44,South,2022-07-14,2023-03-31,171958,Health & Fitness,Client_047,Completed
+CMP_0729,Health & Fitness_Lead Generation_Campaign_0729,SEO,Conversion,18-24,West,2022-05-23,2023-05-08,331932,Fashion,Client_003,Active
+CMP_0730,Education_Brand Awareness_Campaign_0730,YouTube Ads,Brand Awareness,35-44,Central,2022-08-04,2023-05-13,331932,Education,Client_019,Completed
+CMP_0731,Food & Beverages_Conversion_Campaign_0731,TV Channels,Brand Awareness,45-54,East,2022-05-10,2022-11-30,331932,Health & Fitness,Client_010,Completed
+CMP_0732,Health & Fitness_Engagement_Campaign_0732,TV Channels,Retargeting,25-34,Central,2022-02-11,2022-10-13,171958,Food & Beverages,Client_028,Completed
+CMP_0733,Travel_Engagement_Campaign_0733,Google Ads,Conversion,55+,East,2022-08-29,2023-05-23,2492743,Education,Client_029,Active
+CMP_0734,Travel_Engagement_Campaign_0734,Google Ads,Engagement,45-54,Central,2022-01-10,2022-08-11,171958,Travel,Client_015,Completed
+CMP_0735,Fashion_Retargeting_Campaign_0735,YouTube Ads,Lead Generation,18-24,West,2022-10-04,2023-05-24,331932,Travel,Client_035,Completed
+CMP_0736,Health & Fitness_Conversion_Campaign_0736,Google Ads,Retargeting,55+,South,2022-01-27,2023-02-20,171958,Health & Fitness,Client_006,Active
+CMP_0737,Beauty & Skincare_Retargeting_Campaign_0737,Email Marketing,Brand Awareness,25-34,West,2022-06-29,2023-05-02,171958,Home & Living,Client_012,Completed
+CMP_0738,Fashion_Lead Generation_Campaign_0738,YouTube Ads,Retargeting,45-54,North,2022-04-25,2023-03-25,171958,Education,Client_047,Active
+CMP_0739,Health & Fitness_Brand Awareness_Campaign_0739,Google Ads,Retargeting,55+,South,2022-11-29,2023-07-16,171958,Beauty & Skincare,Client_038,Completed
+CMP_0740,Home & Living_Retargeting_Campaign_0740,Email Marketing,Retargeting,45-54,West,2022-02-05,2023-03-02,331932,Education,Client_013,Active
+CMP_0741,Fashion_Lead Generation_Campaign_0741,TV Channels,Retargeting,45-54,North,2022-11-30,2023-07-04,331932,Home & Living,Client_029,Completed
+CMP_0742,Health & Fitness_Lead Generation_Campaign_0742,Affiliate,Lead Generation,25-34,East,2022-01-21,2022-12-08,171958,Education,Client_019,Completed
+CMP_0743,Travel_Conversion_Campaign_0743,Email Marketing,Conversion,35-44,East,2022-01-16,2022-11-26,2492743,Health & Fitness,Client_003,Completed
+CMP_0744,Beauty & Skincare_Engagement_Campaign_0744,Influencer,Engagement,55+,Central,2022-05-07,2023-06-10,171958,Home & Living,Client_008,Completed
+CMP_0745,Travel_Conversion_Campaign_0745,Email Marketing,Retargeting,25-34,South,2022-04-13,2023-01-30,331932,Food & Beverages,Client_008,Completed
+CMP_0746,Beauty & Skincare_Conversion_Campaign_0746,Google Ads,Retargeting,45-54,East,2022-01-11,2022-12-08,2492743,Fashion,Client_020,Active
+CMP_0747,Beauty & Skincare_Engagement_Campaign_0747,SEO,Retargeting,25-34,South,2022-11-15,2023-11-01,331932,Home & Living,Client_047,Completed
+CMP_0748,Beauty & Skincare_Conversion_Campaign_0748,Affiliate,Conversion,35-44,East,2022-03-20,2022-11-02,171958,Education,Client_004,Active
+CMP_0749,Food & Beverages_Lead Generation_Campaign_0749,SEO,Brand Awareness,55+,Central,2022-05-03,2023-03-14,2492743,Food & Beverages,Client_021,Completed
+CMP_0750,Beauty & Skincare_Retargeting_Campaign_0750,Influencer,Brand Awareness,35-44,West,2022-03-06,2023-01-28,331932,Fashion,Client_003,Active
+CMP_0751,Education_Engagement_Campaign_0751,Influencer,Lead Generation,18-24,Central,2022-08-31,2023-05-14,171958,Travel,Client_045,Completed
+CMP_0752,Electronics_Retargeting_Campaign_0752,TV Channels,Brand Awareness,55+,North,2022-12-09,2023-12-01,171958,Beauty & Skincare,Client_008,Paused
+CMP_0753,Electronics_Conversion_Campaign_0753,Google Ads,Retargeting,35-44,East,2022-02-28,2022-09-27,331932,Health & Fitness,Client_023,Paused
+CMP_0754,Beauty & Skincare_Lead Generation_Campaign_0754,SEO,Retargeting,45-54,North,2022-10-16,2023-11-06,331932,Education,Client_016,Completed
+CMP_0755,Travel_Engagement_Campaign_0755,TV Channels,Retargeting,55+,North,2022-04-22,2023-05-27,331932,Education,Client_013,Active
+CMP_0756,Education_Conversion_Campaign_0756,Influencer,Lead Generation,55+,South,2022-08-27,2023-08-30,2492743,Travel,Client_003,Completed
+CMP_0757,Education_Conversion_Campaign_0757,Affiliate,Retargeting,25-34,East,2022-12-25,2023-11-23,331932,Beauty & Skincare,Client_048,Completed
+CMP_0758,Education_Conversion_Campaign_0758,TV Channels,Brand Awareness,45-54,North,2022-05-12,2023-02-13,171958,Travel,Client_009,Active
+CMP_0759,Beauty & Skincare_Brand Awareness_Campaign_0759,TV Channels,Conversion,18-24,West,2022-07-08,2023-05-21,171958,Electronics,Client_014,Paused
+CMP_0760,Electronics_Lead Generation_Campaign_0760,YouTube Ads,Conversion,35-44,North,2022-03-27,2023-03-26,171958,Travel,Client_013,Completed
+CMP_0761,Food & Beverages_Brand Awareness_Campaign_0761,TV Channels,Engagement,25-34,West,2022-11-07,2023-06-02,331932,Food & Beverages,Client_007,Paused
+CMP_0762,Food & Beverages_Lead Generation_Campaign_0762,Influencer,Brand Awareness,35-44,South,2022-11-07,2023-06-10,171958,Fashion,Client_015,Completed
+CMP_0763,Food & Beverages_Lead Generation_Campaign_0763,Email Marketing,Retargeting,18-24,North,2022-02-28,2023-01-16,331932,Education,Client_007,Completed
+CMP_0764,Education_Engagement_Campaign_0764,SEO,Conversion,18-24,Central,2022-03-25,2023-01-21,331932,Travel,Client_038,Completed
+CMP_0765,Education_Engagement_Campaign_0765,Google Ads,Brand Awareness,55+,South,2022-06-09,2023-04-14,2492743,Education,Client_034,Active
+CMP_0766,Fashion_Engagement_Campaign_0766,SEO,Conversion,18-24,West,2022-02-25,2023-03-07,171958,Home & Living,Client_041,Completed
+CMP_0767,Fashion_Retargeting_Campaign_0767,Email Marketing,Retargeting,35-44,South,2022-10-24,2023-06-08,331932,Beauty & Skincare,Client_022,Completed
+CMP_0768,Health & Fitness_Engagement_Campaign_0768,SEO,Conversion,45-54,North,2022-01-14,2022-12-05,171958,Travel,Client_024,Active
+CMP_0769,Electronics_Conversion_Campaign_0769,Google Ads,Engagement,45-54,East,2022-06-09,2023-06-26,331932,Fashion,Client_049,Completed
+CMP_0770,Home & Living_Conversion_Campaign_0770,YouTube Ads,Engagement,55+,East,2022-10-22,2023-08-31,171958,Food & Beverages,Client_037,Completed
+CMP_0771,Fashion_Lead Generation_Campaign_0771,Influencer,Conversion,35-44,West,2022-12-13,2023-07-19,171958,Electronics,Client_044,Completed
+CMP_0772,Food & Beverages_Brand Awareness_Campaign_0772,Google Ads,Brand Awareness,35-44,West,2022-07-12,2023-02-17,331932,Education,Client_001,Completed
+CMP_0773,Education_Retargeting_Campaign_0773,Google Ads,Brand Awareness,18-24,East,2022-07-23,2023-05-01,171958,Beauty & Skincare,Client_010,Active
+CMP_0774,Health & Fitness_Brand Awareness_Campaign_0774,Google Ads,Brand Awareness,35-44,West,2022-04-12,2023-04-02,171958,Health & Fitness,Client_043,Paused
+CMP_0775,Education_Brand Awareness_Campaign_0775,SEO,Conversion,25-34,South,2022-02-08,2022-10-03,331932,Fashion,Client_016,Active
+CMP_0776,Home & Living_Lead Generation_Campaign_0776,SEO,Brand Awareness,18-24,Central,2022-10-31,2023-06-04,331932,Health & Fitness,Client_046,Completed
+CMP_0777,Health & Fitness_Engagement_Campaign_0777,Email Marketing,Retargeting,25-34,Central,2022-12-20,2023-08-09,331932,Fashion,Client_008,Completed
+CMP_0778,Travel_Lead Generation_Campaign_0778,TV Channels,Engagement,55+,South,2022-11-18,2023-08-15,331932,Fashion,Client_049,Completed
+CMP_0779,Beauty & Skincare_Lead Generation_Campaign_0779,TV Channels,Retargeting,45-54,Central,2022-05-05,2023-04-29,331932,Food & Beverages,Client_025,Active
+CMP_0780,Home & Living_Brand Awareness_Campaign_0780,SEO,Brand Awareness,55+,North,2022-02-22,2023-02-19,171958,Food & Beverages,Client_050,Completed
+CMP_0781,Health & Fitness_Engagement_Campaign_0781,Email Marketing,Retargeting,45-54,South,2022-12-23,2023-12-07,171958,Food & Beverages,Client_012,Completed
+CMP_0782,Food & Beverages_Engagement_Campaign_0782,Affiliate,Brand Awareness,55+,West,2022-06-04,2023-05-10,171958,Travel,Client_025,Active
+CMP_0783,Beauty & Skincare_Retargeting_Campaign_0783,Google Ads,Conversion,35-44,South,2022-12-17,2024-01-03,2492743,Home & Living,Client_017,Completed
+CMP_0784,Food & Beverages_Retargeting_Campaign_0784,YouTube Ads,Retargeting,25-34,East,2022-11-04,2023-08-14,331932,Fashion,Client_026,Paused
+CMP_0785,Food & Beverages_Engagement_Campaign_0785,TV Channels,Conversion,45-54,West,2022-03-03,2022-12-25,171958,Beauty & Skincare,Client_046,Paused
+CMP_0786,Fashion_Lead Generation_Campaign_0786,Email Marketing,Conversion,18-24,East,2022-10-17,2023-10-04,171958,Health & Fitness,Client_048,Active
+CMP_0787,Travel_Brand Awareness_Campaign_0787,YouTube Ads,Lead Generation,25-34,West,2022-01-22,2022-12-23,2492743,Food & Beverages,Client_014,Active
+CMP_0788,Food & Beverages_Lead Generation_Campaign_0788,YouTube Ads,Brand Awareness,18-24,Central,2022-06-27,2023-03-29,171958,Travel,Client_041,Completed
+CMP_0789,Beauty & Skincare_Lead Generation_Campaign_0789,Affiliate,Engagement,25-34,South,2022-09-30,2023-08-12,331932,Food & Beverages,Client_036,Completed
+CMP_0790,Beauty & Skincare_Retargeting_Campaign_0790,Google Ads,Brand Awareness,25-34,North,2022-08-08,2023-07-03,331932,Health & Fitness,Client_023,Active
+CMP_0791,Home & Living_Conversion_Campaign_0791,Google Ads,Engagement,55+,West,2022-12-05,2023-11-24,331932,Health & Fitness,Client_043,Active
+CMP_0792,Education_Lead Generation_Campaign_0792,YouTube Ads,Brand Awareness,45-54,West,2022-07-09,2023-05-15,171958,Education,Client_006,Paused
+CMP_0793,Food & Beverages_Conversion_Campaign_0793,SEO,Conversion,45-54,East,2022-02-05,2022-09-18,2492743,Fashion,Client_047,Paused
+CMP_0794,Travel_Conversion_Campaign_0794,TV Channels,Retargeting,25-34,Central,2022-09-17,2023-10-01,2492743,Food & Beverages,Client_005,Active
+CMP_0795,Fashion_Brand Awareness_Campaign_0795,Google Ads,Retargeting,35-44,East,2022-11-28,2023-07-15,331932,Health & Fitness,Client_043,Completed
+CMP_0796,Travel_Engagement_Campaign_0796,Google Ads,Lead Generation,35-44,East,2022-06-24,2023-06-26,331932,Home & Living,Client_025,Completed
+CMP_0797,Food & Beverages_Retargeting_Campaign_0797,Influencer,Engagement,18-24,Central,2022-01-07,2023-01-08,2492743,Home & Living,Client_018,Active
+CMP_0798,Education_Conversion_Campaign_0798,Google Ads,Engagement,18-24,North,2022-08-04,2023-09-04,331932,Food & Beverages,Client_013,Completed
+CMP_0799,Health & Fitness_Engagement_Campaign_0799,TV Channels,Engagement,55+,East,2022-09-08,2023-08-15,171958,Travel,Client_043,Completed
+CMP_0800,Electronics_Brand Awareness_Campaign_0800,TV Channels,Conversion,25-34,East,2022-02-24,2023-03-15,331932,Health & Fitness,Client_014,Completed
